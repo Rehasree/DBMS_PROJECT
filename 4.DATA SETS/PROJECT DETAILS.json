@@ -1,0 +1,2018 @@
+[{
+  "_id": {
+    "$oid": "6074ba097ff534001507e9fc"
+  },
+  "companyName": "Google",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-04-13T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "duration": 3,
+  "workLocation": "Work from home",
+  "stipend": 120000,
+  "projectType": "Long-term",
+  "companyLocation": "America",
+  "skills": "Mern stack,Python(Tensorflow,keras),C,CPP",
+  "openings": 12,
+  "weblink": "https://google.com/",
+  "jobTitle": "Designer",
+  "workJD": "e create a for loop that will iterate through the array we passed from our Express function.  The loop is places inside <% %> tags because we do not want the for loop itself to be added to the web page.  Inside the loop, we have a <li> tag that will place an item on the web page for each item in the array.  To display the item from the array, use the tag <%= items[i] %>.  This will look up the element in the items, array, and add it to the web page.  As you can see, these tags can be place anywhere inside normal html.  To view these changes, just restart the server and reload the page in your browser.  You should see something like this:",
+  "myimage": "myimage_1618262536930.png",
+  "admin": "My3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d0bce06d406001577fb60"
+  },
+  "companyName": "Google",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-08-19T00:00:00Z"
+  },
+  "duration": 4,
+  "workLocation": "Company Location",
+  "stipend": 1200,
+  "projectType": "Long-term",
+  "companyLocation": "Hyderabad",
+  "skills": "Java, C/C++, C#, Python, JavaScript, and/or Go",
+  "openings": 21,
+  "weblink": "https://google.com",
+  "jobTitle": "Web Developer",
+  "workJD": "Design, develop, test, deploy, maintain and improve software. Manage individual project priorities, deadlines and deliverables. Design and implement new user-facing features in Google’s products. Write client-side code for web-based applications, create fast, easy-to-use, high volume production applications, and develop prototypes. Optimize web applications to maximize speed and scale.",
+  "admin": "hellwalker_2704",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60890de42f151d00151d97bf"
+  },
+  "companyName": "Google",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-04-28T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "duration": "1",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Long-term",
+  "companyLocation": "Bombay",
+  "skills": "HTML,CSS,BOOTSTRAP5, PHP, Databases",
+  "openings": 4,
+  "weblink": "https://google.com/",
+  "jobTitle": "Full stack Developer",
+  "workJD": " A Web Developer is responsible for the coding, design and layout of a website according to a company's specifications. As the role takes into consideration user experience and function, a certain level of both graphic design and computer programming is necessary.",
+  "admin": "Reha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609405f22904a40015f8a676"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "duration": "15 days",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Delhi",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 3,
+  "weblink": "https://projectcomet.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”",
+  "admin": "sanjith",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609409892904a40015f8a67e"
+  },
+  "companyName": "Anasol.co",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "duration": "1 Month",
+  "workLocation": "Work from home",
+  "stipend": 10000,
+  "projectType": "Long-term",
+  "companyLocation": "Bihar",
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "openings": 2,
+  "weblink": "http://anasol.com",
+  "jobTitle": "Devoloper",
+  "workJD": "Our web design and development team creates websites with your customer in mind. details are just a few elements that are involved in developing a website that is to take your company's personality and translate it to visual design.",
+  "admin": "Rahul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609411762904a40015f8a691"
+  },
+  "companyName": "hayatitech",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-08T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "duration": "15 days",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 4,
+  "weblink": "https://barnbrook.in/",
+  "jobTitle": "Video Editor",
+  "workJD": "Filmora in 3D video animation",
+  "admin": "Priya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609412582904a40015f8a693"
+  },
+  "companyName": "infomech",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "15 Days",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "English Proficiency",
+  "openings": 3,
+  "weblink": "http://infomech.com",
+  "jobTitle": "Content Writer",
+  "workJD": "One of my most productive days was throwing away 1000 lines of code",
+  "admin": "Ramya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609415162904a40015f8a699"
+  },
+  "companyName": "Wipro",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "duration": "15 days",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Short-Term",
+  "companyLocation": "Jaipur",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 6,
+  "weblink": "https://wipro.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": " Design web pages, brochures, logos, signs, books, magazine covers, annual reports, advertisements, and other communication materials.",
+  "admin": "prudhvi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609418002904a40015f8a6a7"
+  },
+  "companyName": "Usharama",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work location",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "openings": 2,
+  "weblink": "http://usharama.com",
+  "jobTitle": "Devops Devoloper",
+  "workJD": "Applicate is a sales-tech company with ready-to-deploy cloud-based solutions across roles, functions, and channels that drive sales and revenue for an organization. We have developed some of the most amazing solutions for salesforce automation (SFA) and distribution management solutions (DMS). Our latest innovation is Channel KART, a mobile-based platform for connecting retailers, dealers, distributors, service partners, and all channel partners of a company for real-time transactions and engage",
+  "admin": "rajveer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60941b482904a40015f8a6b0"
+  },
+  "companyName": "Sociotech",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Type of Project",
+  "companyLocation": "Delhi",
+  "skills": "Basic knowledge of onpage and offpage",
+  "openings": 5,
+  "weblink": "https://sociotech.in/",
+  "jobTitle": "SEO Expert",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "shresth",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60941dfb2904a40015f8a6b9"
+  },
+  "companyName": "Kamadhenu",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "Andhra pradesh",
+  "skills": "Pro at SEO",
+  "openings": 3,
+  "weblink": "http://kamadhenu.com",
+  "jobTitle": "SEO expert",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "shradha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094271f2904a40015f8a6d0"
+  },
+  "companyName": "infotech",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "duration": "1 Month",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Long-term",
+  "companyLocation": "Delhi",
+  "skills": "Good at grammar.",
+  "openings": 6,
+  "weblink": "https://infotech.in/",
+  "jobTitle": "Content Writer",
+  "workJD": "Put two ships in the open sea, without wind or tide, and, at last, they will come together. Throw two planets into space, and they will fall one on the other. Place two enemies in the midst of a crowd, and they will inevitably meet; it is a fatality, a question of time; that is all.",
+  "admin": "keshava",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60942c722904a40015f8a6d7"
+  },
+  "companyName": "chamakurisol.co",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work location",
+  "stipend": 5000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 8,
+  "weblink": "http://chamakurisol.com",
+  "jobTitle": "Content Writer",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "krishnaveni",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609431b22904a40015f8a6e2"
+  },
+  "companyName": "arihant.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-17T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Long-term",
+  "companyLocation": "Patna",
+  "skills": "Adobe illustrator, Adobe photoshoot",
+  "openings": 15,
+  "weblink": "http://arihant.com",
+  "jobTitle": "Video Editor",
+  "workJD": "Working on a product launch video Working on animations and screen designing Attending daily team calls",
+  "admin": "rekha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609555d945103800155d4915"
+  },
+  "companyName": "The Developers Hub",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "duration": "4 months",
+  "workLocation": "Company Location",
+  "stipend": 1000000,
+  "projectType": "Long-term",
+  "companyLocation": "Patna",
+  "skills": "Web Designing",
+  "openings": 2,
+  "weblink": "https://www.google.com",
+  "jobTitle": "Web designer",
+  "workJD": "Kaam karo aur paisa aapka",
+  "admin": "Bipul Gautam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955c7645103800155d491c"
+  },
+  "companyName": "Big Boy",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-02T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 2682736,
+  "projectType": "Long-term",
+  "companyLocation": "Patna",
+  "skills": "Web Desiging",
+  "openings": 2,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "jobTitle": "Web Designer",
+  "workJD": "Paise aayenge aayenge aayenge",
+  "admin": "Kiran Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955f2c45103800155d4920"
+  },
+  "companyName": "Microsoft",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "duration": "3 weeks",
+  "workLocation": "Company Location",
+  "stipend": 564444,
+  "projectType": "Short-Term",
+  "companyLocation": "Bengaluru",
+  "skills": "SEO",
+  "openings": 45,
+  "weblink": "https://www.microsoft.com",
+  "jobTitle": "SEO Expert",
+  "workJD": "Need a SEO expert for three weeks. Experience required: minimum 6 years. Will work in team of 2",
+  "admin": "Mamta ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095611645103800155d4923"
+  },
+  "companyName": "UrbanClap",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "duration": "4 months",
+  "workLocation": "Work from home",
+  "stipend": 30000,
+  "projectType": "Long-term",
+  "companyLocation": "Patna",
+  "skills": "MERN stack",
+  "openings": 4,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "jobTitle": "MERN stack developer",
+  "workJD": "We need web mern developers urgently. Redux is a plus point. Firebase knowledge is mandatory.",
+  "admin": "Rajdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095641445103800155d4929"
+  },
+  "companyName": "Kerala Smart City",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "duration": "6 months",
+  "workLocation": "Company Location",
+  "stipend": 2000,
+  "projectType": "Long-term",
+  "companyLocation": "Mallapuram",
+  "skills": "English",
+  "openings": 2,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "jobTitle": "Content Writer",
+  "workJD": "It's none of their business that you have to learn how to write. ",
+  "admin": "Zeher",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60956d6445103800155d492e"
+  },
+  "companyName": "AccentureArena",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "duration": "1 week",
+  "workLocation": "Work from home",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "Excellent IT skills, especially with design and photo-editing software",
+  "openings": 6,
+  "weblink": "https://accenturearena.com",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Designing banners for website, content, and proportional advertisements whenever needed Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics",
+  "admin": "Deepika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095768845103800155d493b"
+  },
+  "companyName": "Deloitte",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 6000,
+  "projectType": "Long-term",
+  "companyLocation": "Vishakhapatnam",
+  "skills": "SEO, web development",
+  "openings": 3,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "jobTitle": "SEO Expert",
+  "workJD": "SEO Expert",
+  "admin": "Pappi Lehri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957a4a45103800155d4947"
+  },
+  "companyName": "The Baby Company",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 3000,
+  "projectType": "Long-term",
+  "companyLocation": "Chennai",
+  "skills": "ADOBE PHOTOSHOP, FIGMA, CANVA",
+  "openings": 1,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=material+",
+  "jobTitle": "WEB DESIGNER",
+  "workJD": "NEED A DESIGNER",
+  "admin": "Katilana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957c5845103800155d494b"
+  },
+  "companyName": "The Girl Company",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-04T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 4000,
+  "projectType": "Long-term",
+  "companyLocation": "Hyderabad",
+  "skills": "PHOTOSHOP, ADOBE",
+  "openings": 2,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=mat+",
+  "jobTitle": "Web Designer",
+  "workJD": "Need a designer",
+  "admin": "Katrina",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957f0445103800155d4954"
+  },
+  "companyName": "Microcoft",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 3000,
+  "projectType": "Long-term",
+  "companyLocation": "Hyderabad",
+  "skills": "Figma",
+  "openings": 101,
+  "weblink": "https://www.google.com/search?client=firefox-b-d&q=mate+",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Need a graphic designer",
+  "admin": "Salman",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095812b45103800155d495a"
+  },
+  "companyName": "P&G",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-04T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-02T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 3000,
+  "projectType": "Long-term",
+  "companyLocation": "Chennai",
+  "skills": "figma",
+  "openings": 2,
+  "weblink": "https://www.google.co",
+  "jobTitle": "Web Designer",
+  "workJD": "NEED A WEB DESIGNER",
+  "admin": "Rinku",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609936e5e2b1480015cc90c0"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work location",
+  "stipend": 3000,
+  "projectType": "Type of Project",
+  "companyLocation": "Delhi",
+  "skills": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts",
+  "openings": 3,
+  "weblink": "https://pro5solutions.in/",
+  "jobTitle": "Content writer",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Nirbhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099387de2b1480015cc90c4"
+  },
+  "companyName": "Chamakurisol",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work location",
+  "stipend": 3000,
+  "projectType": "Type of Project",
+  "companyLocation": "Bihar",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 7,
+  "weblink": "http://chamakurisol.com",
+  "jobTitle": "Graphic designer",
+  "workJD": "Applicate is a sales-tech company with ready-to-deploy cloud-based solutions across roles, functions, and channels that drive sales and revenue for an organization. We have developed some of the most amazing solutions for salesforce automation (SFA) and distribution management solutions (DMS). Our latest innovation is Channel KART, a mobile-based platform for connecting retailers, dealers, distributors, service partners, and all channel partners of a company for real-time transactions and engage",
+  "admin": "Netra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993ae9e2b1480015cc90cc"
+  },
+  "companyName": "Wipro",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Short-Term",
+  "companyLocation": "Hyderabad",
+  "skills": "Blog Editing, Good at grammar.",
+  "openings": 4,
+  "weblink": "https://wipro.in/",
+  "jobTitle": "Content Writer",
+  "workJD": "Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "admin": "Niranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993c1be2b1480015cc90cf"
+  },
+  "companyName": "anglambidda",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Short-Term",
+  "companyLocation": "Andhra pradesh",
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "openings": 3,
+  "weblink": "http://anglambidda.com",
+  "jobTitle": "Devoloper",
+  "workJD": "Our web design and development team creates websites with your customer in mind. details are just a few elements that are involved in developing a website that is to take your company's personality and translate it to visual design.",
+  "admin": "Sukesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993eb8e2b1480015cc90d6"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "Critical Thinking. Speaking & Writing Ability.",
+  "openings": 7,
+  "weblink": "https://pro5solutions.in/",
+  "jobTitle": "SEO Expert",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Rohan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609940c6e2b1480015cc90db"
+  },
+  "companyName": "Usharama",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "openings": 6,
+  "weblink": "http://usharama.com",
+  "jobTitle": "Desingner",
+  "workJD": "Backend relevant skills frontend relevant skills Delivering the best User experience",
+  "admin": "Kumari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099433be2b1480015cc90e4"
+  },
+  "companyName": "infotech",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "duration": "1 Month",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "Blog Editing, Good at grammar.",
+  "openings": 5,
+  "weblink": "https://infotech.in/",
+  "jobTitle": "Content Writer",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Sindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609944cce2b1480015cc90e8"
+  },
+  "companyName": "Techcrackblog",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work location",
+  "stipend": 2500,
+  "projectType": "Short-Term",
+  "companyLocation": "Bihar",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 8,
+  "weblink": "http://Techcrackblog.com",
+  "jobTitle": "Graphic designer",
+  "workJD": "Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "admin": "Abdul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60994842e2b1480015cc90f0"
+  },
+  "companyName": "Sociotech",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 1500,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "1. Handling customer complaints, providing appropriate solutions and alternatives within the time limit & following up to ensure resolution 2. Maintaining a fast response time and great quality over all the modes of customer communication (email, chat, calls, etc.) 3. Building sustainable relationships and trust with customers through open and interactive communication 4. Coming up with ideas and strategies to increase customer activation, retention, shopping & improving customer experience",
+  "openings": 3,
+  "weblink": "https://sociotech.in/",
+  "jobTitle": "TAX Accountant",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Prerana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609949e0e2b1480015cc90f4"
+  },
+  "companyName": "Chakrasol.",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 1500,
+  "projectType": "Short-Term",
+  "companyLocation": "Andhra pradesh",
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "openings": 6,
+  "weblink": "http://Chakrasol.com",
+  "jobTitle": "SEO expert",
+  "workJD": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts",
+  "admin": "Chevi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a85621eb2fb0015ace06b"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter",
+  "openings": 3,
+  "weblink": "https://pro5solutions.in/",
+  "jobTitle": "Financial Modeling",
+  "workJD": "The fault, dear Brutus, is not in our stars, but in ourselves.",
+  "admin": "Bindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a868e1eb2fb0015ace06e"
+  },
+  "companyName": "Usharama",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work location",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "English Proficiency, Good at grammar.",
+  "openings": 4,
+  "weblink": "http://usharama.com",
+  "jobTitle": "Blog Writing",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Geetha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a88d71eb2fb0015ace077"
+  },
+  "companyName": "Treehugger",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work location",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "openings": 3,
+  "weblink": "https://treehugger.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Designing banners for website, content, and proportional advertisements whenever needed Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "admin": "Agesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a89fa1eb2fb0015ace07a"
+  },
+  "companyName": "Anasol.co",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "Andhra pradesh",
+  "skills": "WordPress Adobe Photoshop MySQL HTML CSS JavaScript Backend relevant skills frontend relevant skills Delivering the best User experience",
+  "openings": 5,
+  "weblink": "http://anasol.com",
+  "jobTitle": "Desingner",
+  "workJD": "1. Developing a website out of scratch on PHP 2. Updating the PHP version from old to new 3. Coordinating with UI team for making the required changes 4. Analyzing the current website and making the changes wherever required 5. Making the required SEO changes and optimizing the pages",
+  "admin": "Akshay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8c9e1eb2fb0015ace084"
+  },
+  "companyName": "hayatitech",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Gujarat",
+  "skills": "1. Working on link submission 2. Working on and off-page site analysis using various advanced tools for SEO research and analysis 3. Handling competitor analysis and keyword research 4. Managing Google Analytics, directory listing, sitemap building and submitting original material and content 5. Developing and mapping out SEO and social media content 6. Creating, curating, and managing all published content (images, video, and written) on different platforms",
+  "openings": 4,
+  "weblink": "https://hayatitech.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Put two ships in the open sea, without wind or tide, and, at last, they will come together. Throw two planets into space, and they will fall one on the other. Place two enemies in the midst of a crowd, and they will inevitably meet; it is a fatality, a question of time; that is all.",
+  "admin": "Meena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8dc51eb2fb0015ace088"
+  },
+  "companyName": "infomech",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work location",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 3,
+  "weblink": "http://infomech.com",
+  "jobTitle": "Graphic designer",
+  "workJD": "Designing banners for website, content, and proportional advertisements whenever needed Making suitable typographic images with the content provided",
+  "admin": "Megha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8e811eb2fb0015ace08a"
+  },
+  "companyName": "Gojek",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "duration": "2",
+  "workLocation": "Work from home",
+  "stipend": 15000,
+  "projectType": "Short-Term",
+  "companyLocation": "new york",
+  "skills": "AWS,ML",
+  "openings": 25,
+  "weblink": "https://www.gojek.com",
+  "jobTitle": "SEO intern",
+  "workJD": "have to work on optimising searching",
+  "admin": "Olivia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a90e71eb2fb0015ace097"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bihar",
+  "skills": "Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "openings": 3,
+  "weblink": "https://pro5solutions.in/",
+  "jobTitle": "Content writer",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Ranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a92181eb2fb0015ace0a2"
+  },
+  "companyName": "Salesforce",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-08-14T00:00:00Z"
+  },
+  "duration": "3",
+  "workLocation": "Work from home",
+  "stipend": 10000,
+  "projectType": "Short-Term",
+  "companyLocation": "delhi",
+  "skills": "React.js",
+  "openings": 11,
+  "weblink": "https://www.salesforce.com",
+  "jobTitle": "front end developer",
+  "workJD": "create attractive websites",
+  "admin": "Ramesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a92491eb2fb0015ace0a4"
+  },
+  "companyName": "Kamadhenu",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bihar",
+  "skills": "Designing banners for website, content, and proportional advertisements whenever needed Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "openings": 8,
+  "weblink": "http://kamadhenu.com",
+  "jobTitle": "Graphic designer",
+  "workJD": "1. Working on being creative and prompt in designing as per the requirements for websites, social media, email campaigns, etc. 2. Working on innovative ideas for creating a huge visual impact",
+  "admin": "Mehereen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a95031eb2fb0015ace0b1"
+  },
+  "companyName": "nesco.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "duration": "2 weeks",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "mumbai",
+  "skills": "Adobe illustrator, Adobe photoshoot",
+  "openings": 5,
+  "weblink": "https://cratedwithlove.com/blog/",
+  "jobTitle": "Graphic designer",
+  "workJD": "Only those candidates can apply who:  1. are available for the work from home job/internship  2. can start the work from home job/internship between 11th May'21 and 15th Jun'21  3. are available for duration of 3 months  4. have relevant skills and interests",
+  "admin": "Kajal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a990e1eb2fb0015ace0c3"
+  },
+  "companyName": "hitechsol.co",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Long-term",
+  "companyLocation": "banglore",
+  "skills": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts Making content for social media",
+  "openings": 8,
+  "weblink": "https://cratedwithheart.com/blog/",
+  "jobTitle": "SEO Expert",
+  "workJD": "1.Creating blogs and researching for content ideas for social media platforms 2.Work closely with marketing team members 3.Optimize content using SEO best practices 4.Writing content for brochures and catalogues",
+  "admin": "Samantha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aaca21eb2fb0015ace0e8"
+  },
+  "companyName": "kumarisol.co",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-05T00:00:00Z"
+  },
+  "duration": "2 weeks",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "raipur",
+  "skills": "Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "openings": 5,
+  "weblink": "https://mdz-design.com",
+  "jobTitle": "SEO Expert",
+  "workJD": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts.",
+  "admin": "Sreeram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aae631eb2fb0015ace0eb"
+  },
+  "companyName": "harshasol.co",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-21T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3500,
+  "projectType": "Long-term",
+  "companyLocation": "patna",
+  "skills": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "openings": 6,
+  "weblink": "https://collegeinfogeek.com",
+  "jobTitle": "content writer",
+  "workJD": "The ideal candidate possesses a passion for writing and innovative ability to create successful marketing campaigns and aid in creating company growth. You will be responsible for generating exciting and compelling content.",
+  "admin": "Manikanta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab1e51eb2fb0015ace0f5"
+  },
+  "companyName": "nestle.co",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Long-term",
+  "companyLocation": "delhi",
+  "skills": "MS-Excel English Proficiency (Spoken) English Proficiency (Written)",
+  "openings": 10,
+  "weblink": "https://cratedwithlove.com/blog/",
+  "jobTitle": "content writer",
+  "workJD": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts.",
+  "admin": "Nidhi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab3661eb2fb0015ace0f9"
+  },
+  "companyName": "manasa.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Long-term",
+  "companyLocation": "chandigarh",
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "openings": 8,
+  "weblink": "https://cratedwithbrain.com/blog/",
+  "jobTitle": "grsphic designer",
+  "workJD": "Only those candidates can apply who:  1. are available for the work from home job/internship  2. can start the work from home job/internship between 11th May'21 and 15th Jun'21  3. are available for duration of 3 months  4. have relevant skills and interests",
+  "admin": "Zareena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ac4be4192720015c60538"
+  },
+  "companyName": "neel technologies",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3800,
+  "projectType": "Short-Term",
+  "companyLocation": "allahabad, uttar pradesh",
+  "skills": "HTML, photoshop, ui/ux",
+  "openings": 2,
+  "weblink": "http://www.neel.com",
+  "jobTitle": "graphic designer ",
+  "workJD": "need to design some logos and magazine covers",
+  "admin": "neelmani yadav",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b853eb6d3ec0015e559ba"
+  },
+  "companyName": "Akash Design and technlogies",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "duration": "2 day",
+  "workLocation": "Work from home",
+  "stipend": 2400,
+  "projectType": "Short-Term",
+  "companyLocation": "Bangalore",
+  "skills": "HTML, CSS, Javascript, Jquery",
+  "openings": 2,
+  "weblink": "https://akashtechnologies.com",
+  "jobTitle": "web designer",
+  "workJD": "As a web designer, you'll plan, create and code web pages, using both technical and non-technical skills to produce websites that fit your customers' requirements. Being involved in the technical and graphical aspects of pages, you'll determine not only the look of the website but how it works as well.",
+  "admin": "akash_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bbead82d91300152e0675"
+  },
+  "companyName": "Joseph Enterprises",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "1 week",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "chennai",
+  "skills": "advanced English, vocabulary ",
+  "openings": 1,
+  "weblink": "https://www.josephenterprises.com",
+  "jobTitle": "content writer",
+  "workJD": "relevant content for websites, blogs, articles, white papers, product descriptions, and social media platforms. ",
+  "admin": "ewin_joseph",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc2d682d91300152e0679"
+  },
+  "companyName": "Padhhigh",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "duration": "2weeks",
+  "workLocation": "Work location",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "bangalore",
+  "skills": "Only those candidates can apply who:  1. are available for the work from home job/internship  2. can start the work from home job/internship between 12th May'21 and 16th Jun'21  3. are available for duration of 1 week  4. have relevant skills and interests",
+  "openings": 1,
+  "weblink": "https://padhigh.com",
+  "jobTitle": "Business Development (Sales)",
+  "workJD": "Selected intern's day-to-day responsibilities include:  1. Identify and develop strategic relationships with new customers 2. Assist in the development of a strong pipeline of new customers through inbound and outbound customer calls 3. Regular follow-ups with new and existing customers 4. Monitor and analyze the pipeline to review performance and optimize accordingly to make sure objectives are met 5. Update and create tailored client proposals 6. Maintain, build, and update calling/mailing",
+  "admin": "rahul_veloce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be932268c9e001542257c"
+  },
+  "companyName": "pro5solutions",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bihar",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 3,
+  "weblink": "https://pro5solutions.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "admin": "Sitha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bee47268c9e0015422589"
+  },
+  "companyName": "Wipro",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "Hyderabad",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 5,
+  "weblink": "https://wipro.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "admin": "Aditya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bee8e268c9e001542258a"
+  },
+  "companyName": "chamakurisol.co",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "English Proficiency",
+  "openings": 3,
+  "weblink": "http://chamakurisol.com",
+  "jobTitle": "Content Writer",
+  "workJD": "1.Creating blogs and researching for content ideas for social media platforms 2.Work closely with marketing team members 3.Optimize content using SEO best practices 4.Writing content for brochures and catalogues",
+  "admin": "Sasank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf201268c9e0015422597"
+  },
+  "companyName": "hayatitech",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Delhi",
+  "skills": "ADOBE, PHOTOSHOP",
+  "openings": 4,
+  "weblink": "https://hayatitech.in/",
+  "jobTitle": "Graphic Designer",
+  "workJD": "Ideas that inspire, inform, and captivate consumers. Contact me for more details. Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "admin": "Kiran",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf23d268c9e0015422598"
+  },
+  "companyName": "Usharama",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "duration": "1 Week",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "English Proficiency",
+  "openings": 3,
+  "weblink": "http://usharama.com",
+  "jobTitle": "Content Writer",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Meera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf50a268c9e00154225a5"
+  },
+  "companyName": "infotech",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Hyderabad",
+  "skills": "Blog Editing, Good at grammar.",
+  "openings": 3,
+  "weblink": "https://infotech.in/",
+  "jobTitle": "SEO Expert",
+  "workJD": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "admin": "Lokender",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf541268c9e00154225a6"
+  },
+  "companyName": "Anasol.co",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "duration": "2 Weeks",
+  "workLocation": "Work from home",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Mumbai",
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "openings": 7,
+  "weblink": "http://anasol.com",
+  "jobTitle": "Devoloper",
+  "workJD": "Applicate is a sales-tech company with ready-to-deploy cloud-based solutions across roles, functions, and channels that drive sales and revenue for an organization. We have developed some of the most amazing solutions for salesforce automation (SFA) and distribution management solutions (DMS). Our latest innovation is Channel KART, a mobile-based platform for connecting retailers, dealers, distributors, service partners, and all channel partners of a company for real-time transactions and engage",
+  "admin": "Hasya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf7a1268c9e00154225af"
+  },
+  "companyName": "arihant.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-22T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Long-term",
+  "companyLocation": "raipur",
+  "skills": "Adobe illustrator, Adobe photoshoot",
+  "openings": 8,
+  "weblink": "http://arihant.com",
+  "jobTitle": "Graphic designer",
+  "workJD": "Working on a product launch video Working on animations and screen designing Attending daily team calls",
+  "admin": "Bhanu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf947268c9e00154225b9"
+  },
+  "companyName": "manasa.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-25T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Long-term",
+  "companyLocation": "chandigarh",
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "openings": 10,
+  "weblink": "https://collegeinfogeek.com",
+  "jobTitle": "grsphic designer",
+  "workJD": "Only those candidates can apply who:  1. are available for the work from home job/internship  2. can start the work from home job/internship between 11th May'21 and 15th Jun'21  3. are available for duration of 3 months  4. have relevant skills and interests",
+  "admin": "Aishwarya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfa95268c9e00154225be"
+  },
+  "companyName": "kumarisol.co",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-29T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 2500,
+  "projectType": "Long-term",
+  "companyLocation": "hyderabad",
+  "skills": "HTML,CSS,Javascript,node.js,React",
+  "openings": 4,
+  "weblink": "https://cratedwithlove.com/blog/",
+  "jobTitle": "web developer",
+  "workJD": "1. Developing a website out of scratch on PHP 2. Updating the PHP version from old to new 3. Coordinating with UI team for making the required changes 4. Analyzing the current website and making the changes wherever required",
+  "admin": "Gayatri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfbaf268c9e00154225c2"
+  },
+  "companyName": "Vyorius",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work location",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "lucknow",
+  "skills": "HTML JavaScript Node.js GitHub ReactJS Redux",
+  "openings": 1,
+  "weblink": "http://vyorius.com",
+  "jobTitle": "front end developer",
+  "workJD": "1. Creating dashboards using ReactJS 2. Writing efficient code 3. Working closely with web designers and programmers to produce the dashboards 4. Communicating with other colleagues in the business to develop and deploy their content 5. Ensuring that there is a clear establishment of what can be created within a time-frame 6. Maintaining and expanding/enhancing the dashboards after it is built",
+  "admin": "ujjwal_pandey",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfc5d268c9e00154225c6"
+  },
+  "companyName": "harshasol.co",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-28T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Long-term",
+  "companyLocation": "banglore",
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "openings": 6,
+  "weblink": "https://cratedwithheart.com/blog/",
+  "jobTitle": "graphic designer",
+  "workJD": "1.Creating blogs and researching for content ideas for social media platforms 2.Work closely with marketing team members 3.Optimize content using SEO best practices 4.Writing content for brochures and catalogues",
+  "admin": "Harsha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0210268c9e00154225d5"
+  },
+  "companyName": "intuit",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-07-31T00:00:00Z"
+  },
+  "duration": "2",
+  "workLocation": "Work from home",
+  "stipend": 7000,
+  "projectType": "Short-Term",
+  "companyLocation": "patna",
+  "skills": "Content writing",
+  "openings": 68,
+  "weblink": "https://www.intuit.com",
+  "jobTitle": "content writer",
+  "workJD": "create attractive headline for our website",
+  "admin": "Neha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0427268c9e00154225da"
+  },
+  "companyName": "Nanjil Anand Foundation",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-16T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work location",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "bangalore",
+  "skills": "1. are available for the work from home job/internship  2. can start the work from home job/internship between 11th May'21 and 15th Jun'21  3. are available for duration of 3 months  4. have relevant skills and interests  * Women wanting to start/restart their career can also apply.",
+  "openings": 1,
+  "weblink": "https://nanjil.com",
+  "jobTitle": "graphic designer ",
+  "workJD": "Selected intern's day-to-day responsibilities include:  1. Creating infographics for non-profit awareness campaigns 2. Working with the multidisciplinary teams in the planning and execution of campaign promotional material",
+  "admin": "swadeep_chauhan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c057a268c9e00154225df"
+  },
+  "companyName": "Adobe",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "duration": "1",
+  "workLocation": "Work from home",
+  "stipend": 50000,
+  "projectType": "Short-Term",
+  "companyLocation": "Bengaluru",
+  "skills": "UX design",
+  "openings": 12,
+  "weblink": "https://www.adobe.com",
+  "jobTitle": "Designer",
+  "workJD": "you have create attractive logo",
+  "admin": "Anmol",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0937268c9e00154225f1"
+  },
+  "companyName": "Flipkart",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "duration": "2",
+  "workLocation": "Work from home",
+  "stipend": 40000,
+  "projectType": "Short-Term",
+  "companyLocation": "hyderabad",
+  "skills": "python",
+  "openings": 120,
+  "weblink": "https://www.flipkart.com",
+  "jobTitle": "cloud developer",
+  "workJD": "have to work with databases",
+  "admin": "Anjali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c36dc5651480015310d76"
+  },
+  "companyName": "NASDAQ",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Work location",
+  "stipend": 20000,
+  "projectType": "Short-Term",
+  "companyLocation": "Chennai",
+  "skills": "Web Development",
+  "openings": 2,
+  "weblink": "https://dbms2704.herokuapp.com/GigEdit",
+  "jobTitle": "Web Developer",
+  "workJD": "Need web developer",
+  "admin": "Akshay Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c3af85651480015310d7e"
+  },
+  "companyName": "Tesla India",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-02T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-03-28T00:00:00Z"
+  },
+  "duration": "12 months",
+  "workLocation": "Work from home",
+  "stipend": 80000,
+  "projectType": "Long-term",
+  "companyLocation": "Bengaluru",
+  "skills": "SEO",
+  "openings": 2,
+  "weblink": "https://dbms2704.herokuapp.com/GigEdit",
+  "jobTitle": "SEO Developer",
+  "workJD": "Need SEO Developer to increase traffic and improve search results",
+  "admin": "Praneeta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c3e8c5651480015310d85"
+  },
+  "companyName": "Klipkart",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Short-Term",
+  "companyLocation": "Chennai",
+  "skills": "MERN",
+  "openings": 2,
+  "weblink": "https://dbms2704.herokuapp.com/GigEdit",
+  "jobTitle": "Web Developer",
+  "workJD": "Need web developer",
+  "admin": "Karan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c41a05651480015310d8b"
+  },
+  "companyName": "Amazon India",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 20000,
+  "projectType": "Short-Term",
+  "companyLocation": "Chennai",
+  "skills": "Figma, Adobe Photoshop ",
+  "openings": 1,
+  "weblink": "https://dbms2704.herokuapp.com/GigEdit",
+  "jobTitle": "Web Designer",
+  "workJD": "Need web designer",
+  "admin": "Mayank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c45125651480015310d95"
+  },
+  "companyName": "TCS",
+  "positionAvailable": "Web Designer",
+  "startDate": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "duration": "3 months",
+  "workLocation": "Company Location",
+  "stipend": 2000,
+  "projectType": "Short-Term",
+  "companyLocation": "Chennai",
+  "skills": "Figma, Adobe Photoshop ",
+  "openings": 80,
+  "weblink": "https://dbms2704.herokuapp.com/GigEdit",
+  "jobTitle": "Web Designer",
+  "workJD": "Need web designer",
+  "admin": "Raj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d080797b62a001541edd6"
+  },
+  "companyName": "JBF (INDIA) TRUST",
+  "positionAvailable": "Position Availaible",
+  "startDate": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "duration": "2 MONTH",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Long-term",
+  "companyLocation": "bangalore",
+  "skills": "Social Media Marketing Digital Marketing Facebook Marketing English Proficiency (Written) Instagram Marketing",
+  "openings": 1,
+  "weblink": "https://jbfsociety.org/",
+  "jobTitle": "FUND RAISER AND VOLUNTEER",
+  "workJD": "Selected intern's day-to-day responsibilities include:  1. Engaging in fieldwork as assigned 2. Fundraising and volunteering for education program related to animal welfare 3. Marketing and fundraising",
+  "admin": "shraddha_sharma      ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d0a6c97b62a001541eddb"
+  },
+  "companyName": "Team Everest",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 5000,
+  "projectType": "Short-Term",
+  "companyLocation": "delhi",
+  "skills": "Creative Writing",
+  "openings": 1,
+  "weblink": "https://www.teameverest.ngo/",
+  "jobTitle": "content writer",
+  "workJD": "Selected intern's day-to-day responsibilities include:  1. Creating a lesson plan document to teach English 2. Helping us create at least 20 English lessons in total",
+  "admin": "srishti_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d0f0897b62a001541ede5"
+  },
+  "companyName": "Mega",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "duration": "1 week",
+  "workLocation": "Work from home",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "azamgarh",
+  "skills": "Digital Marketing , Search Engine Optimization (SEO)",
+  "openings": 2,
+  "weblink": "https://www.getmega.com/",
+  "jobTitle": "seo",
+  "workJD": " 1. Building backlinks via various off-page activities such as forum posting, guest posting, submission activities, among others 2. Ensuring indexation of links created via backlink efforts 3. Handling the identification and categorization of websites on which backlinks can be built for GetMega's website 4. Drafting SEO optimized title tag, meta description, canonical tags, etc. on GetMega website 5. Ensuring indexation of pages that are being created on the website 6. Preparing a report for weekly & monthly clicks on the GetMega website 7. Publishing pages on the GetMega website via Ghost CMS 8. Conducting reach out activities for various initiatives in the organic growth team to boost the signups driven via organic channels 9. Building backlinks on the website via various methods such as guest posting, forum posting, PDF & PPT submission",
+  "admin": "abu_bakar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dadeccb669d001598b727"
+  },
+  "companyName": "Superior SEO Services",
+  "positionAvailable": "Graphic Designer",
+  "startDate": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-16T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work location",
+  "stipend": 4000,
+  "projectType": "Short-Term",
+  "companyLocation": "allahabad, uttar pradesh",
+  "skills": "1. are available for the work from home job/internship  2. can start the work from home job/internship between 13th May'21 and 17th Jun'21  3. are available for duration of 1 month  4. have relevant skills and interests  * Women wanting to start/restart their career can also apply.",
+  "openings": 1,
+  "weblink": "https://padhigh.com",
+  "jobTitle": "logo designer",
+  "workJD": "Selected intern's day-to-day responsibilities include:  1. Designing posters for our business 2. Working on Renderforest and making explanatory videos from premade templates",
+  "admin": "devanshi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db2f1cb669d001598b739"
+  },
+  "companyName": "Flapgem",
+  "positionAvailable": "Content Writer",
+  "startDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "bangalore",
+  "skills": "English Proficiency (Spoken) English Proficiency (Written)",
+  "openings": 1,
+  "weblink": "https://nanjil.com",
+  "jobTitle": "content writer",
+  "workJD": "Selected intern's day-to-day responsibilities include writing unique tech-related content on the given topics. Note: Article must be 2000 words.",
+  "admin": "sooryash ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db3efcb669d001598b73b"
+  },
+  "companyName": "Exa Mobility India Private Limited",
+  "positionAvailable": "Web Developer",
+  "startDate": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "duration": "1 week",
+  "workLocation": "Work from home",
+  "stipend": 3000,
+  "projectType": "Short-Term",
+  "companyLocation": "azamgarh",
+  "skills": "JavaScript Cloud Computing Python Data Analytics Machine Learning Node.js C Programming NoSQL C++ Programming Internet of Things (IoT) REST API Amazon Web Services (AWS) Cloud Firestore",
+  "openings": 1,
+  "weblink": "https://www.teameverest.ngo/",
+  "jobTitle": "back end developer",
+  "workJD": "1. Working on IoT and cloud services for electric vehicles, fleet management, and charging network 2. Working on various services of AWS and Google Cloud platform 3. Working on server-less API/apps on AWS 4. Working on AWS Lambda, AWS DynamoDB, API gateway 5. Working on IoT data pipeline, streamlining, data pre-processing for data analytics/machine learning 6. Working on DBMS and integration with APIs 7. Working on seamless interfacing with front end (mobile apps, dashboards, etc. )",
+  "admin": "yash_rastogi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db807cb669d001598b747"
+  },
+  "companyName": "Fans Army",
+  "positionAvailable": "Position Availaible",
+  "startDate": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "allahabad, uttar pradesh",
+  "skills": "Adobe Photoshop Adobe Illustrator Adobe After Effects",
+  "openings": 1,
+  "weblink": "https://padhigh.com",
+  "jobTitle": "graphic designer ",
+  "workJD": "1. Make a creative and unique design that can be printed on t-shirts 2. Create mockups for t-shirts and designs 3. Make creative designs for social media platforms 4. Plan concept & theme for the social media creatives 5. Work on advertising campaign creatives 6. Work with advertising video creative",
+  "admin": "gunjan_choudhary",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dbaa7cb669d001598b74c"
+  },
+  "companyName": "Marketing Hues",
+  "positionAvailable": "SEO Expert",
+  "startDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "applyBy": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "duration": "1 month",
+  "workLocation": "Work from home",
+  "stipend": 3500,
+  "projectType": "Short-Term",
+  "companyLocation": "azamgarh",
+  "skills": "Digital Marketing Search Engine Optimization (SEO) Creative Writing",
+  "openings": 1,
+  "weblink": "https://www.teameverest.ngo/",
+  "jobTitle": "seo",
+  "workJD": "1. Generate high-quality content for both the Marketing Hues website and blog 2. Look for possible errors in the website content, working with the team to carry out necessary corrections 3. Conduct SEO audits for Marketing Hues as well as clients 4. Analyse marketing data to develop insights and make recommendations on areas for optimization 5. Learn basic SEO strategies (keyword research, link acquisition, and on-site optimization) 6. Understand Google Analytics, Google Webmaster tools & Bing Webmaster tools 7. Identify and resolve 404 crawl errors and fixing dead links and improve metadata across older articles and services 8. Handle various design tasks 9. Assist in the daily tasks across our social accounts (namely YouTube, Facebook, Twitter & G+) 10. Work on competitive analysis for other popular brands in our sector",
+  "admin": "zoya_khan ",
+  "__v": 0
+}]

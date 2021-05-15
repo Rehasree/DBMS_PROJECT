@@ -1,0 +1,1366 @@
+[{
+  "_id": {
+    "$oid": "609403322904a40015f8a673"
+  },
+  "gigTitle": "web devoloper",
+  "describeGig": "I make website in 2 days",
+  "subCategory": "web devolopment",
+  "price": 2000,
+  "gigCategory": "Development and IT",
+  "image1": "https://areya.tech/",
+  "image2": "https://team.iiitiansnetwork.com/",
+  "image3": "https://projectcomet.in/",
+  "image4": "image4_1620312882327.jfif",
+  "admin": "sanjith",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609407602904a40015f8a679"
+  },
+  "gigTitle": "Graphic designer",
+  "describeGig": "The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there's a 90% probability you'll get it wrong.",
+  "subCategory": "graphic designer",
+  "price": 1500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://areya.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620313952431.jpg",
+  "admin": "Rahul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60940d5d2904a40015f8a687"
+  },
+  "gigTitle": "Android Devolopment",
+  "describeGig": "There are 10 types of people in this world, those who understand binary and those who don't.",
+  "subCategory": "Android devolopment",
+  "price": 5000,
+  "gigCategory": "Development and IT",
+  "image1": "https://andwalsh.com/",
+  "image2": "https://shantisparrow.com/",
+  "image3": "https://barnbrook.in/",
+  "image4": "image4_1620315485462.png",
+  "admin": "Priya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094103d2904a40015f8a68b"
+  },
+  "gigTitle": "Content writing",
+  "describeGig": "I can produce entertaining or educational material and are responsible for the contribution of information to any media.",
+  "subCategory": "Content writing",
+  "price": 1000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://breakingtech.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620316221017.jfif",
+  "admin": "Ramya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609414492904a40015f8a696"
+  },
+  "gigTitle": "Devops Devoloper",
+  "describeGig": "In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.",
+  "subCategory": "Devops Devoloper",
+  "price": 3000,
+  "gigCategory": "Development and IT",
+  "image1": "https://andwalsh.com/",
+  "image2": "https://jacksparrow.com/",
+  "image3": "https://projectcomic.in/",
+  "image4": "image4_1620317257222.jpg",
+  "admin": "prudhvi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609417152904a40015f8a6a4"
+  },
+  "gigTitle": "Animation Designer",
+  "describeGig": "One man’s crappy software is another man’s full time job.",
+  "subCategory": "Animation Designer",
+  "price": 3500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://grimora.tech/",
+  "image2": "https://mikitech.tech/",
+  "image3": "https://brookbread.tech/",
+  "image4": "image4_1620317973960.jfif",
+  "admin": "rajveer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609419d42904a40015f8a6ad"
+  },
+  "gigTitle": "Blog Writing",
+  "describeGig": "Time and tide wait for no men.",
+  "subCategory": "Blog Writing",
+  "price": 3000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://anglasem.com/",
+  "image2": "https://priorsol.com/",
+  "image3": "https://markingrog.in/",
+  "image4": "image4_1620318676132.jfif",
+  "admin": "shresth",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60941c3c2904a40015f8a6b2"
+  },
+  "gigTitle": "SEO Expert",
+  "describeGig": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "subCategory": "SEO Expert",
+  "price": 3000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://breakingbad.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://branbread.tech/",
+  "image4": "image4_1620319292326.jpg",
+  "admin": "shradha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609426852904a40015f8a6ce"
+  },
+  "gigTitle": "UI/UX Designer",
+  "describeGig": "People ignore design that ignores people.",
+  "subCategory": "UI/UX Designer",
+  "price": 5000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://areya.tech/",
+  "image2": "https://priorsol.com/",
+  "image3": "https://projectcomet.in/",
+  "image4": "image4_1620321925560.png",
+  "admin": "keshava",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60942b4a2904a40015f8a6d5"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”",
+  "subCategory": "Content writing",
+  "price": 5000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://breakingtech.tech/",
+  "image2": "https://mikitech.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620323146114.jpg",
+  "admin": "krishnaveni",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60942f692904a40015f8a6db"
+  },
+  "gigTitle": "Development and IT",
+  "describeGig": "Software developer",
+  "subCategory": "Software developer",
+  "price": 3000,
+  "gigCategory": "Development and IT",
+  "image1": "https://arya.tech/",
+  "image2": "http://ariyana.com/ ",
+  "image3": "https://reya.in/",
+  "image4": "image4_1620324201342.png",
+  "admin": "rekha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095553545103800155d4914"
+  },
+  "gigTitle": "Semantic Web Developer",
+  "describeGig": "Get the best websites at a resonable cost. Experience: 4+ years",
+  "subCategory": "Web Development",
+  "price": 1000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com/search?q=google+photos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjg8pTj6bfwAhVzzDgGHTHBCeQQ_AUoAXoECAEQAw#imgrc=EuyEu1gJ3RASTM",
+  "image2": "https://www.google.com/search?q=google+photos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjg8pTj6bfwAhVzzDgGHTHBCeQQ_AUoAXoECAEQAw#imgrc=voiJ18PtMY3EPM",
+  "image3": "https://www.google.com/search?q=google+photos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjg8pTj6bfwAhVzzDgGHTHBCeQQ_AUoAXoECAEQAw#imgrc=voiJ18PtMY3EPM",
+  "image4": "image4_1620399412837.png",
+  "admin": "Bipul Gautam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955be145103800155d491a"
+  },
+  "gigTitle": "Creative Writing",
+  "describeGig": "Get some awesome content at resonable price",
+  "subCategory": "Creative Writing",
+  "price": 32421,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image4": "image4_1620401121599.jpg",
+  "admin": "Kiran Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0d45103800155d491e"
+  },
+  "gigTitle": "Python Developer",
+  "describeGig": "I am a pyhton developer. Experience 6+ years",
+  "subCategory": "Python",
+  "price": 41343422,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image4": "image4_1620401677523.jpg",
+  "admin": "Mamta ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095607c45103800155d4922"
+  },
+  "gigTitle": "Python GUI Developer",
+  "describeGig": "I create some awesome GUI with python. Experience: 3+years",
+  "subCategory": "Python GUI",
+  "price": 1000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image4": "image4_1620402300341.jpg",
+  "admin": "Rajdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095637445103800155d4928"
+  },
+  "gigTitle": "Creative Writing",
+  "describeGig": "I am awesome in  creative writing, writing since childhood",
+  "subCategory": "Creative Writing",
+  "price": 1000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image4": "image4_1620403060447.jpg",
+  "admin": "Zeher",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095770245103800155d493c"
+  },
+  "gigTitle": "WEB DEVELOPER",
+  "describeGig": "I AM A WEB DEVELOPER AND I CREATE AWESOME WEBSITES ",
+  "subCategory": "Development",
+  "price": 4000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material",
+  "image4": "image4_1620408066832.jpg",
+  "admin": "Pappi Lehri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609578d145103800155d4944"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "I write amazing things",
+  "subCategory": "Creative Writing",
+  "price": 30000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=material+ui+",
+  "image4": "image4_1620408529560.jpg",
+  "admin": "Katilana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957bc745103800155d494a"
+  },
+  "gigTitle": "CREATIVE WRITING",
+  "describeGig": "I am awesome in writing",
+  "subCategory": "Writing",
+  "price": 400,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=mat",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=mat",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=mat",
+  "image4": "image4_1620409287020.jpg",
+  "admin": "Katrina",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957e9e45103800155d4953"
+  },
+  "gigTitle": "Creative Writing",
+  "describeGig": "I am good in writing creative things",
+  "subCategory": "Creative writing",
+  "price": 1000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=mate+",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=mate+",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=mate+",
+  "image4": "image4_1620410014594.jpg",
+  "admin": "Salman",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609580ae45103800155d4959"
+  },
+  "gigTitle": "UI/UX Designer",
+  "describeGig": "I CREATE AWESOME DESIGNS",
+  "subCategory": "UI Designer",
+  "price": 1000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.google.com/search?client=firefox-b-d&q=",
+  "image2": "https://www.google.com/search?client=firefox-b-d&q=",
+  "image3": "https://www.google.com/search?client=firefox-b-d&q=",
+  "image4": "image4_1620410542688.jpg",
+  "admin": "Rinku",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609935b7e2b1480015cc90be"
+  },
+  "gigTitle": "Web developer",
+  "describeGig": "Small Businesses check this out !",
+  "subCategory": "Web developer",
+  "price": 3000,
+  "gigCategory": "Development and IT",
+  "image1": "https://areya.tech/",
+  "image2": "https://shantisparrow.com/",
+  "image3": "https://markingrog.in/",
+  "image4": "image4_1620653495979.jpg",
+  "admin": "Nirbhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993785e2b1480015cc90c1"
+  },
+  "gigTitle": "Content writing",
+  "describeGig": "Softskilled employee. Checkout my samples from my profile.",
+  "subCategory": "Content writing",
+  "price": 3000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://grimora.tech/",
+  "image2": "https://mikitech.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620653957503.jpg",
+  "admin": "Netra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609939f1e2b1480015cc90c9"
+  },
+  "gigTitle": "Animation designer",
+  "describeGig": "Best design services just a click away, at reasonable deals.",
+  "subCategory": "Animation designer",
+  "price": 2500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://milkawalsh.com/",
+  "image2": "https://priorsol.com/",
+  "image3": "https://barnbread.in/",
+  "image4": "image4_1620654575845.gif",
+  "admin": "Niranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993b3ae2b1480015cc90cd"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "Only SEO friendly content. Contact me for more details.",
+  "subCategory": "Content writing",
+  "price": 2500,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://grimora.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620654906118.jpg",
+  "admin": "Sukesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993db1e2b1480015cc90d4"
+  },
+  "gigTitle": "Customer service specialist",
+  "describeGig": "I can help you stand out of the crowd ! Hire me !",
+  "subCategory": "Customer service specialist",
+  "price": 4000,
+  "gigCategory": "Admin & Customer Support",
+  "image1": "https://andwalsh.com/",
+  "image2": "https://team.iiitiansnetwork.com/",
+  "image3": "https://projectcomet.in/",
+  "image4": "image4_1620655537443.jpg",
+  "admin": "Rohan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993fdbe2b1480015cc90d9"
+  },
+  "gigTitle": "Content writing",
+  "describeGig": "Digital Marketing tactics, SEO management and more. Click on the thumbnail for more details.",
+  "subCategory": "Content writing",
+  "price": 4000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://breakingbad.tech/",
+  "image2": "https://milkitech.tech/",
+  "image3": "https://brookbread.tech/",
+  "image4": "image4_1620656091707.jpg",
+  "admin": "Kumari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60994247e2b1480015cc90e2"
+  },
+  "gigTitle": "Finance and Accounting",
+  "describeGig": "Mathematics is my second language.",
+  "subCategory": "Finance and Accounting",
+  "price": 2500,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://miami.tech/",
+  "image2": "https://jacksparrow.com/",
+  "image3": "https://markingrog.in/",
+  "image4": "image4_1620656711152.jpg",
+  "admin": "Sindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609943e5e2b1480015cc90e6"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "Social media content creation, check in here!",
+  "subCategory": "Content writing",
+  "price": 2500,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://grimora.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://brookbread.tech/",
+  "image4": "image4_1620657125761.png",
+  "admin": "Abdul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099470ae2b1480015cc90ed"
+  },
+  "gigTitle": "Multilingual Customer Support Specialist",
+  "describeGig": "Available 24/7 Hire ME !",
+  "subCategory": "Multilingual Customer Support Specialist",
+  "price": 1500,
+  "gigCategory": "Admin & Customer Support",
+  "image1": "https://style&error.com",
+  "image2": "https://techcrackblog.com",
+  "image3": "https://www.treehugger.com",
+  "image4": "image4_1620657930487.jpg",
+  "admin": "Prerana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609948e7e2b1480015cc90f2"
+  },
+  "gigTitle": "Finance and Accounting",
+  "describeGig": "Mathematics is my second language",
+  "subCategory": "Finance and Accounting",
+  "price": 1500,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://grimora.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://branbread.tech/",
+  "image4": "image4_1620658406982.jpg",
+  "admin": "Chevi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a843c1eb2fb0015ace069"
+  },
+  "gigTitle": "Admin and Customer support",
+  "describeGig": "let's team up ! i can be your support system",
+  "subCategory": "Admin and Customer support",
+  "price": 2000,
+  "gigCategory": "Admin & Customer Support",
+  "image1": "https://areya.tech/",
+  "image2": "https://shantisparrow.com/",
+  "image3": "https://barnbrook.in/",
+  "image4": "image4_1620739132392.png",
+  "admin": "Bindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a85d81eb2fb0015ace06c"
+  },
+  "gigTitle": "TAX Accountant",
+  "describeGig": "Mathematics is my second language.",
+  "subCategory": "TAX Accountant",
+  "price": 2000,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://grimora.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620739544360.jpg",
+  "admin": "Geetha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a87e81eb2fb0015ace075"
+  },
+  "gigTitle": "Sales and Marketing",
+  "describeGig": "I create curating content to help your blog stand out of crowd !",
+  "subCategory": "Sales and Marketing",
+  "price": 3000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://treehugger.tech/",
+  "image2": "https://treehugger.com/",
+  "image3": "https://projectcomet.in/",
+  "image4": "image4_1620740072919.jpg",
+  "admin": "Agesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a895a1eb2fb0015ace078"
+  },
+  "gigTitle": "Graphic designer",
+  "describeGig": "I can produce entertaining or educational material and are responsible for the contribution of information to any media.",
+  "subCategory": "graphic designer",
+  "price": 3000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://style&error.tech/",
+  "image2": "https://mikitech.tech/",
+  "image3": "https://techcrackblog.tech/",
+  "image4": "image4_1620740442755.png",
+  "admin": "Akshay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8b931eb2fb0015ace081"
+  },
+  "gigTitle": "Digital Marketing",
+  "describeGig": "Ideas that inspire, inform, and captivate consumers. Contact me for more details.",
+  "subCategory": "Digital Marketing",
+  "price": 4000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://style&error.com",
+  "image2": "https://treehugger.com/",
+  "image3": "https://rainbowplantlife.in/",
+  "image4": "image4_1620741011849.jpg",
+  "admin": "Meena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8cfa1eb2fb0015ace085"
+  },
+  "gigTitle": "Animation Designer",
+  "describeGig": "Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "subCategory": "Animation Designer",
+  "price": 1000,
+  "gigCategory": "Category",
+  "image1": "https://grimora.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://branbread.tech/",
+  "image4": "image4_1620741370583.png",
+  "admin": "Megha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8f5c1eb2fb0015ace091"
+  },
+  "gigTitle": "Graphic designing",
+  "describeGig": "used to create vector images",
+  "subCategory": "Creativity",
+  "price": 500,
+  "gigCategory": "Design and Creative",
+  "image1": "http://www.design1.com",
+  "image2": "http://www.design2.com",
+  "image3": "http://www.design3.com",
+  "image4": "image4_1620741980040.jpg",
+  "admin": "Olivia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8ff11eb2fb0015ace093"
+  },
+  "gigTitle": "Social media Marketing",
+  "describeGig": "I can take your advertising to its superlative degree!",
+  "subCategory": "Social media Marketing",
+  "price": 2000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://style&error.com",
+  "image2": "https://team.iiitiansnetwork.com/",
+  "image3": "https://barnbrook.in/",
+  "image4": "image4_1620742129381.jpg",
+  "admin": "Ranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a915e1eb2fb0015ace09b"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "I can produce entertaining or educational material and are responsible for the contribution of information to any media.",
+  "subCategory": "Content writing",
+  "price": 4000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://areya.tech/",
+  "image2": "https://treehugger.tech/",
+  "image3": "https://senorita.tech/",
+  "image4": "image4_1620742494381.jpg",
+  "admin": "Mehereen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a92d51eb2fb0015ace0aa"
+  },
+  "gigTitle": "android developer",
+  "describeGig": "I make attractive websites",
+  "subCategory": "development",
+  "price": 5000,
+  "gigCategory": "Development and IT",
+  "image1": "http://www.app1.com",
+  "image2": "http://www.app2.com",
+  "image3": "http://www.app3.com",
+  "image4": "image4_1620742863027.jpg",
+  "admin": "Ramesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a94651eb2fb0015ace0b0"
+  },
+  "gigTitle": "Content writer",
+  "describeGig": "Social media content creation, check in here!",
+  "subCategory": "content writer",
+  "price": 2500,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://collegeinfogeek.com",
+  "image2": " https://apartmenttherapy.com ",
+  "image3": "https://sayyes.com",
+  "image4": "image4_1620743268627.jpg",
+  "admin": "Kajal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a98661eb2fb0015ace0c2"
+  },
+  "gigTitle": "Graphic designer",
+  "describeGig": "Originality with Creativity at its the finest. Hire me!",
+  "subCategory": "Graphic designer",
+  "price": 4000,
+  "gigCategory": "Design and Creative",
+  "image1": " https://sayyes.com",
+  "image2": "https://collegeinfogeek.com",
+  "image3": " https://apartmenttherapy.com",
+  "image4": "image4_1620744293819.jpg",
+  "admin": "Samantha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aac171eb2fb0015ace0e7"
+  },
+  "gigTitle": "Development and IT",
+  "describeGig": "Hire me for the best frontend of your website.",
+  "subCategory": "web developer",
+  "price": 4000,
+  "gigCategory": "Development and IT",
+  "image1": " https://mdz-design.com",
+  "image2": " https://www.polarsundesigns.com",
+  "image3": "https://www.made-studio.es",
+  "image4": "image4_1620749335203.png",
+  "admin": "Sreeram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aadef1eb2fb0015ace0ea"
+  },
+  "gigTitle": "SEO Expert",
+  "describeGig": "Only SEO friendly content. Contact me for more details.",
+  "subCategory": "SEO Expert",
+  "price": 3000,
+  "gigCategory": "Sales and Marketing",
+  "image1": " https://www.polarsundesigns.com",
+  "image2": "https://www.made-studio.es",
+  "image3": "https://fakehoneypictures.com ",
+  "image4": "image4_1620749807072.jpg",
+  "admin": "Manikanta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab1661eb2fb0015ace0f4"
+  },
+  "gigTitle": "Computer support specialist",
+  "describeGig": "Best services @ best price.",
+  "subCategory": "computer support specialist",
+  "price": 5000,
+  "gigCategory": "Admin & Customer Support",
+  "image1": "https://collegeinfogeek.com",
+  "image2": "https://www.polarsundesigns.com",
+  "image3": "https://reya.in/",
+  "image4": "image4_1620750694587.jpg",
+  "admin": "Nidhi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab2ff1eb2fb0015ace0f8"
+  },
+  "gigTitle": "content writer",
+  "describeGig": "I create curating content to help your blog stand out of crowd !",
+  "subCategory": "content writer",
+  "price": 4000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://parayana.com",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://freechaitanya.com",
+  "image4": "image4_1620751103950.jpg",
+  "admin": "Zareena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b05f72cbd6b00153a78b0"
+  },
+  "gigTitle": "I'll create a attractive and beautiful poster for your brand.",
+  "describeGig": "I'll create a attractive and beautiful poster for your brand.",
+  "subCategory": "Poster Designing",
+  "price": 500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://drive.google.com/drive/u/0/folders/1_lPpLc--0-WWPxDkenFblfWIdA5Ss_MZ",
+  "image2": "https://drive.google.com/drive/u/0/folders/1_lPpLc--0-WWPxDkenFblfWIdA5Ss_MZ",
+  "image3": "https://drive.google.com/drive/u/0/folders/1_lPpLc--0-WWPxDkenFblfWIdA5Ss_MZ",
+  "image4": "image4_1620772341979.png",
+  "admin": "abhishek",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b864eb6d3ec0015e559bb"
+  },
+  "gigTitle": "graphic designer",
+  "describeGig": " I will be your website designer and web developer. I will do web development both back end and front end. I will do PHP web development. I will develop an angular website and web application. I will be your website designer and web developer.",
+  "subCategory": "graphic designing",
+  "price": 1000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620805198350.PNG",
+  "admin": "akash_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bb72382d91300152e0668"
+  },
+  "gigTitle": "web developer",
+  "describeGig": "help you get your website up and running within the shortest possible time.",
+  "subCategory": "web development",
+  "price": 2000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620817699181.jpg",
+  "admin": "neelmani yadav",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bbfbc82d91300152e0676"
+  },
+  "gigTitle": "sales manager",
+  "describeGig": "Responsible for researching and developing marketing opportunities and planning and implementing new sales plans.",
+  "subCategory": "sales",
+  "price": 4000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620819900243.PNG",
+  "admin": "ewin_joseph",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc36482d91300152e067a"
+  },
+  "gigTitle": "fund raiser",
+  "describeGig": " Raising fund for Digladder by pitching your personal network",
+  "subCategory": "fund raising",
+  "price": 2000,
+  "gigCategory": "Admin & Customer Support",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620820836412.jpg",
+  "admin": "rahul_veloce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be893268c9e001542257a"
+  },
+  "gigTitle": "UI/UX Designer",
+  "describeGig": "In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.",
+  "subCategory": "UI/UX Designer",
+  "price": 2000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://style&error.com",
+  "image2": "https://team.iiitiansnetwork.com/",
+  "image3": "https://barnbread.in/",
+  "image4": "image4_1620830355617.jpg",
+  "admin": "Sitha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be985268c9e001542257d"
+  },
+  "gigTitle": "Graphic designer",
+  "describeGig": "Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "subCategory": "graphic designer",
+  "price": 2000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://areya.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620830597711.jpg",
+  "admin": "Deepika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bece6268c9e0015422585"
+  },
+  "gigTitle": "web devoloper",
+  "describeGig": "In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.",
+  "subCategory": "web devolopment",
+  "price": 3000,
+  "gigCategory": "Development and IT",
+  "image1": "https://style&error.com",
+  "image2": "https://treehugger.com/",
+  "image3": "https://projectcomic.in/",
+  "image4": "image4_1620831462619.png",
+  "admin": "Aditya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bed51268c9e0015422586"
+  },
+  "gigTitle": "Graphic designer",
+  "describeGig": "Ideas that inspire, inform, and captivate consumers. Contact me for more details. I can take your advertising to its superlative degree! Best design services just a click away, at reasonable deals. Originality with Creativity at its the finest. Hire me! Ad designing, proofreading, logos and more. Click on the thumbnail for more details. I can help you stand out of the crowd ! Hire me !",
+  "subCategory": "graphic designer",
+  "price": 3000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://breakingtech.tech/",
+  "image2": "https://milkitech.tech/",
+  "image3": "https://brookbread.tech/",
+  "image4": "image4_1620831569789.jpg",
+  "admin": "Sasank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf070268c9e0015422593"
+  },
+  "gigTitle": "Accountant",
+  "describeGig": "Daily manage, establish, maintain and balance company's accounts using computerized bookkeeping system",
+  "subCategory": "Accountant",
+  "price": 4000,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://andwalsh.com/",
+  "image2": "https://priorsol.com/",
+  "image3": "https://www.treehugger.com",
+  "image4": "image4_1620832368511.png",
+  "admin": "Kiran",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf0c7268c9e0015422594"
+  },
+  "gigTitle": "Animation Designer",
+  "describeGig": "Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "subCategory": "Animation Designer",
+  "price": 4000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://breakingtech.tech/",
+  "image2": "https://frechaitanya.tech/",
+  "image3": "https://parayana.tech/",
+  "image4": "image4_1620832455293.jpg",
+  "admin": "Meera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf3b8268c9e00154225a1"
+  },
+  "gigTitle": "Video editor",
+  "describeGig": "Working on audio as well as video editing \tWorking on making small clips and animations",
+  "subCategory": "Video editor",
+  "price": 1000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://andwalsh.com/",
+  "image2": "https://treehugger.com/",
+  "image3": "https://barnbread.in/",
+  "image4": "image4_1620833208510.jpg",
+  "admin": "Lokender",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf41c268c9e00154225a2"
+  },
+  "gigTitle": "Sales Executive",
+  "describeGig": "I can produce entertaining or educational material and are responsible for the contribution of information to any media.",
+  "subCategory": "Sales Executive",
+  "price": 2000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://breakingbad.tech/",
+  "image2": "https://mikitech.tech/",
+  "image3": "https://branbread.tech/",
+  "image4": "image4_1620833308668.jpg",
+  "admin": "Hasya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf766268c9e00154225ae"
+  },
+  "gigTitle": "Digital marketing",
+  "describeGig": "Best design services just a click away, at reasonable deals.",
+  "subCategory": "digital marketing",
+  "price": 3000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://arya.tech/",
+  "image2": "http://ariyana.com/",
+  "image3": "https://reya.in/",
+  "image4": "image4_1620834150901.jpg",
+  "admin": "Bhanu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf843268c9e00154225b1"
+  },
+  "gigTitle": "video editor",
+  "describeGig": "Originality with Creativity at its the finest. Hire me!",
+  "subCategory": "video editor",
+  "price": 3000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.polarsundesigns.com",
+  "image2": "https://www.made-studio.es",
+  "image3": "https://apartmenttherapy.com",
+  "image4": "image4_1620834371584.jpg",
+  "admin": "Aishwarya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfa48268c9e00154225bc"
+  },
+  "gigTitle": "UI/UX designer",
+  "describeGig": "Best design services just a click away, at reasonable deals.",
+  "subCategory": "UI/UX designer",
+  "price": 2500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://collegeinfogeek.com",
+  "image2": "http://ariyana.com/",
+  "image3": "https://www.made-studio.es",
+  "image4": "image4_1620834888761.jpg",
+  "admin": "Gayatri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfc14268c9e00154225c5"
+  },
+  "gigTitle": "Web developer",
+  "describeGig": "Originality with Creativity at its the finest. Hire me!",
+  "subCategory": "web developer",
+  "price": 2500,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.polarsundesigns.com",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://freechaitanya.com",
+  "image4": "image4_1620835348278.jpg",
+  "admin": "Harsha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfc6e268c9e00154225c7"
+  },
+  "gigTitle": "Tax Accountant",
+  "describeGig": "I can help you manage your business in just 5 days !!",
+  "subCategory": "Tax Accountant",
+  "price": 5000,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://in.searchly.com",
+  "image2": "https://tributal.com",
+  "image3": "https://www.gigapromo.co.in",
+  "image4": "image4_1620835436734.jpg",
+  "admin": "Rohith",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfd18268c9e00154225ce"
+  },
+  "gigTitle": "web developer",
+  "describeGig": " I will be your website designer and web developer. ",
+  "subCategory": "web development",
+  "price": 3500,
+  "gigCategory": "Development and IT",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620835608124.PNG",
+  "admin": "ujjwal_pandey",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bff4c268c9e00154225d1"
+  },
+  "gigTitle": "Tax Accountant",
+  "describeGig": "I can help you manage your business in just 5 days !!",
+  "subCategory": "Tax Accountant",
+  "price": 5000,
+  "gigCategory": "Finance & Accounting",
+  "image1": "https://in.searchly.com",
+  "image2": "https://tributal.com",
+  "image3": "https://www.gigapromo.co.in",
+  "image4": "image4_1620836171320.jpg",
+  "admin": "Lasya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c02c0268c9e00154225d6"
+  },
+  "gigTitle": "UI/UX Design",
+  "describeGig": "Originality with Creativity at its finest. Hire me!",
+  "subCategory": "UI/UX Design",
+  "price": 2500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.made-studio.es",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://sayyes.com",
+  "image4": "image4_1620837056204.jpg",
+  "admin": "Lahari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c02f3268c9e00154225d7"
+  },
+  "gigTitle": "App development",
+  "describeGig": "i used to make attractive apps",
+  "subCategory": "development",
+  "price": 10000,
+  "gigCategory": "Development and IT",
+  "image1": "http://www.app1.com",
+  "image2": "http://www.app2.com",
+  "image3": "http://www.app3.com",
+  "image4": "image4_1620837107158.jpg",
+  "admin": "Neha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c030d268c9e00154225d8"
+  },
+  "gigTitle": "Poster Designing",
+  "describeGig": "Originality with Creativity at its finest. Hire me!",
+  "subCategory": "poster Designing",
+  "price": 3000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.made-studio.es",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://sayyes.com",
+  "image4": "image4_1620837133072.jpg",
+  "admin": "Lahari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0350268c9e00154225d9"
+  },
+  "gigTitle": "web developer",
+  "describeGig": "help you get your website up and running within the shortest possible time.",
+  "subCategory": "web development",
+  "price": 3500,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620837200737.jpg",
+  "admin": "swadeep_chauhan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c059a268c9e00154225e0"
+  },
+  "gigTitle": "Graphic Designer",
+  "describeGig": "Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "subCategory": "Graphic Designer",
+  "price": 3000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.polarsundesigns.com",
+  "image2": "https://tributal.com",
+  "image3": "https://style&error.com",
+  "image4": "image4_1620837786627.jpg",
+  "admin": "Srisiva",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0665268c9e00154225e3"
+  },
+  "gigTitle": "Web design",
+  "describeGig": "I make attractive websites",
+  "subCategory": "development",
+  "price": 2000,
+  "gigCategory": "Development and IT",
+  "image1": "http://www.web1.com",
+  "image2": "http://www.web2.com",
+  "image3": "http://www.web3.com",
+  "image4": "image4_1620837989498.jpg",
+  "admin": "Anmol",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0739268c9e00154225e8"
+  },
+  "gigTitle": "Blog Writing",
+  "describeGig": "Soft Skilled employee. Checkout my samples from my profile.",
+  "subCategory": "Blog Writng",
+  "price": 5000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.made-studio.es",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://iiitiannetwrok.com",
+  "image4": "image4_1620838201496.jpg",
+  "admin": "Niharika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c073c268c9e00154225e9"
+  },
+  "gigTitle": "Blog Writing",
+  "describeGig": "Soft Skilled employee. Checkout my samples from my profile.",
+  "subCategory": "Blog Writng",
+  "price": 5000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://www.made-studio.es",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://iiitiannetwrok.com",
+  "image4": "image4_1620838204333.jpg",
+  "admin": "Niharika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c08f5268c9e00154225f0"
+  },
+  "gigTitle": "Website Designing",
+  "describeGig": "Website creation along with marketing skills. Check my profile for more.",
+  "subCategory": "Website Designing",
+  "price": 3500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://www.made-studio.es",
+  "image2": "https://collegeinfogeek.com",
+  "image3": "https://sayyes.com",
+  "image4": "image4_1620838645157.jpg",
+  "admin": "Soumika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c09c4268c9e00154225f3"
+  },
+  "gigTitle": "Cloud computing",
+  "describeGig": "google search engine",
+  "subCategory": "development",
+  "price": 8000,
+  "gigCategory": "Development and IT",
+  "image1": "http://www.cloud1.com",
+  "image2": "http://www.cloud2.com",
+  "image3": "http://www.cloud3.com",
+  "image4": "image4_1620838852511.jpg",
+  "admin": "Anjali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0b12268c9e00154225f5"
+  },
+  "gigTitle": "Graphic Designer",
+  "describeGig": "Ad designing, proofreading, logos and more. Click on the thumbnail for more details.",
+  "subCategory": "Graphic Designer",
+  "price": 2700,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.polarsundesigns.com",
+  "image2": "https://www.made-studio.es",
+  "image3": "https://www.gigapromo.co.in",
+  "image4": "image4_1620839186496.jpg",
+  "admin": "Pranathi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c363c5651480015310d75"
+  },
+  "gigTitle": "Web Developer",
+  "describeGig": "Get your websites created easily and at affordable prices",
+  "subCategory": "Web Development",
+  "price": 5000,
+  "gigCategory": "Development and IT",
+  "image1": "https://dbms2704.herokuapp.com/GigEdit",
+  "image2": "https://dbms2704.herokuapp.com/GigEdit",
+  "image3": "https://dbms2704.herokuapp.com/GigEdit",
+  "image4": "image4_1620850235910.jpg",
+  "admin": "Akshay Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c3a465651480015310d7d"
+  },
+  "gigTitle": "UI/UX Developer",
+  "describeGig": "Get awesome User Interfaces designed",
+  "subCategory": "UI/ UX ",
+  "price": 500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://dbms2704.herokuapp.com/GigEdit",
+  "image2": "https://dbms2704.herokuapp.com/GigEdit",
+  "image3": "https://dbms2704.herokuapp.com/GigEdit",
+  "image4": "image4_1620851268745.jpg",
+  "admin": "Praneeta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c3e275651480015310d84"
+  },
+  "gigTitle": "Web Developer",
+  "describeGig": "Get your websites created easily and at affordable prices",
+  "subCategory": "Web Development",
+  "price": 5000,
+  "gigCategory": "Development and IT",
+  "image1": "https://dbms2704.herokuapp.com/GigEdit",
+  "image2": "https://dbms2704.herokuapp.com/GigEdit",
+  "image3": "https://dbms2704.herokuapp.com/GigEdit",
+  "image4": "image4_1620852262284.jpg",
+  "admin": "Karan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c411a5651480015310d8a"
+  },
+  "gigTitle": "UI/UX Developer",
+  "describeGig": "Get awesome User Interfaces designed",
+  "subCategory": "UI/ UX ",
+  "price": 5000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://dbms2704.herokuapp.com/GigEdit",
+  "image2": "https://dbms2704.herokuapp.com/GigEdit",
+  "image3": "https://dbms2704.herokuapp.com/GigEdit",
+  "image4": "image4_1620853016838.jpg",
+  "admin": "Mayank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c45e35651480015310d96"
+  },
+  "gigTitle": "UI/UX Developer",
+  "describeGig": "Get awesome User Interfaces designed",
+  "subCategory": "UI/ UX ",
+  "price": 460,
+  "gigCategory": "Design and Creative",
+  "image1": "https://dbms2704.herokuapp.com/",
+  "image2": "https://dbms2704.herokuapp.com/",
+  "image3": "https://dbms2704.herokuapp.com/",
+  "image4": "image4_1620854241666.jpg",
+  "admin": "Raj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d08ac97b62a001541edd7"
+  },
+  "gigTitle": "data scientist",
+  "describeGig": "data scientist with 10+ years of experience. I am specializes in data analysis, data visualization and machine learning.",
+  "subCategory": "data scientist",
+  "price": 5000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620904108459.jpg",
+  "admin": "shraddha_sharma      ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d09e197b62a001541edda"
+  },
+  "gigTitle": "fund raiser and volunteer",
+  "describeGig": "I will help you create a winning crowdfunding strategy",
+  "subCategory": "fund raiser",
+  "price": 5000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620904417300.png",
+  "admin": "srishti_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d10bf97b62a001541ede6"
+  },
+  "gigTitle": "logo designer",
+  "describeGig": "Experience beyond the normal level",
+  "subCategory": "graphic designing",
+  "price": 4000,
+  "gigCategory": "Design and Creative",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620906171947.jpg",
+  "admin": "abu_bakar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dae90cb669d001598b728"
+  },
+  "gigTitle": "seo expert",
+  "describeGig": "All affordable Search Engine Optimization packages have been designed keeping different search engine optimization requirements in  mind. The team of our are talented professionals implement a suitable tactic to bring your business on the top. Our experts with their adroit skills,  tactical methodology, and vast knowledge have attained success in completing  many projects. ",
+  "subCategory": "seo",
+  "price": 4000,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620946576636.jpg",
+  "admin": "devanshi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db331cb669d001598b73a"
+  },
+  "gigTitle": "content writer",
+  "describeGig": "Experience beyond the normal level",
+  "subCategory": "content writer",
+  "price": 3000,
+  "gigCategory": "Writing and Editing",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620947761909.jpg",
+  "admin": "yash_rastogi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db457cb669d001598b73c"
+  },
+  "gigTitle": "web developer",
+  "describeGig": "I have spent more than 1200 hours in development working for clients. ",
+  "subCategory": "web development",
+  "price": 3000,
+  "gigCategory": "Development and IT",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620948055807.jpg",
+  "admin": "sooryash ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db881cb669d001598b748"
+  },
+  "gigTitle": "seo expert",
+  "describeGig": "I will shopify SEO 1st page ranking on google guaranteed",
+  "subCategory": "seo",
+  "price": 3500,
+  "gigCategory": "Sales and Marketing",
+  "image1": "https://www.google.com",
+  "image2": "https://www.microsoft.com",
+  "image3": "https://www.steam.com",
+  "image4": "image4_1620949121387.jpg",
+  "admin": "gunjan_choudhary",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dba0ccb669d001598b74b"
+  },
+  "gigTitle": "graphic designer",
+  "describeGig": "I will do custom order related to graphic design work",
+  "subCategory": "graphic designing",
+  "price": 3500,
+  "gigCategory": "Design and Creative",
+  "image1": "https://github.com/Lucifer09012002",
+  "image2": "https://rehasree.github.io/portfolio.io/",
+  "image3": "https://iiitiansnetwork.com/",
+  "image4": "image4_1620949516095.jpg",
+  "admin": "zoya_khan ",
+  "__v": 0
+}]

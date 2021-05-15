@@ -1,0 +1,1441 @@
+[{
+  "_id": {
+    "$oid": "6094041e2904a40015f8a674"
+  },
+  "firstName": "sanjith",
+  "lastName": "kumar",
+  "headLine": "“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”",
+  "email": "sanjith67@gmail.com",
+  "mobile": 9897897867,
+  "city": "vizag",
+  "state": "ANDHRA PRADESH",
+  "zip": 534134,
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "gradDate": "2018",
+  "admin": "sanjith",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094080e2904a40015f8a67b"
+  },
+  "firstName": "Rahul",
+  "lastName": "Priyadarshi",
+  "headLine": "The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there's a 90% probability you'll get it wrong.",
+  "email": "rahul69@gmail.com",
+  "mobile": 9876765432,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "ADOBE, PHOTOSHOP",
+  "gradDate": "2019",
+  "admin": "Rahul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60940e222904a40015f8a688"
+  },
+  "firstName": "Priya",
+  "lastName": "varrior",
+  "headLine": "There are 10 types of people in this world, those who understand binary and those who don't",
+  "email": "priya36@gmail.com",
+  "mobile": 9564376854,
+  "city": "raichur",
+  "state": "karnataka",
+  "zip": 765437,
+  "skills": "Android XML, JAVA",
+  "gradDate": "2016",
+  "admin": "Priya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609410bd2904a40015f8a68d"
+  },
+  "firstName": "Ramya",
+  "lastName": "Prasad",
+  "headLine": "produce entertaining or educational material and are responsible for the contribution of information to any media",
+  "email": "ramya24@gmail.com",
+  "mobile": 93654876243,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "English Proficiency",
+  "gradDate": "2017",
+  "admin": "Ramya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609416052904a40015f8a69f"
+  },
+  "firstName": "Prudhvi",
+  "lastName": "Kumar",
+  "headLine": "“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”",
+  "email": "prudhvikumar@gmail.com",
+  "mobile": 9543857652,
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "zip": 257465,
+  "skills": "Android XML, JAVA",
+  "gradDate": "2014",
+  "admin": "prudhvi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609417762904a40015f8a6a5"
+  },
+  "firstName": "Rajveer",
+  "lastName": "Gupta",
+  "headLine": "Produce entertaining or educational material and are responsible for the contribution of information to any media.",
+  "email": "rajveer612@gmail.com",
+  "mobile": 7898654325,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "Unity, cpp, python",
+  "gradDate": "2012",
+  "admin": "rajveer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60941a762904a40015f8a6af"
+  },
+  "firstName": "shresth",
+  "lastName": "Parag",
+  "headLine": "Put two ships in the open sea, without wind or tide, and, at last, they will come together. Throw two planets into space, and they will fall one on the other. Place two enemies in the midst of a crowd, and they will inevitably meet; it is a fatality, a question of time; that is all.",
+  "email": "shresth2002@gmail.com",
+  "mobile": 7896576809,
+  "city": "Vijayawada",
+  "state": "ANDHRA PRADESH",
+  "zip": 534134,
+  "skills": "Blog Editing, Good at grammar.",
+  "gradDate": "2013",
+  "admin": "shresth",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60941cef2904a40015f8a6b5"
+  },
+  "firstName": "Shradha",
+  "lastName": "Kapoor",
+  "headLine": "Time is the most valuable thing a man can spend.",
+  "email": "shradha2105@gmial.com",
+  "mobile": 8976576898,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "Basic knowledge of on-page/off-page optimization. Research and implement search engine optimization recommendations Research and analyze competitor advertising links",
+  "gradDate": "2016",
+  "admin": "shradha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60942c142904a40015f8a6d6"
+  },
+  "firstName": "Krishnaveni",
+  "lastName": "kommula",
+  "headLine": "produce entertaining or educational material and are responsible for the contribution of information to any media",
+  "email": "krishnaveni1409@gmail.com",
+  "mobile": 9873452768,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "English Proficiency",
+  "gradDate": "2007",
+  "admin": "krishnaveni",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094307b2904a40015f8a6dd"
+  },
+  "firstName": "rekha",
+  "lastName": "podugu",
+  "headLine": "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.",
+  "email": "rekha39@gmail.com",
+  "mobile": 9865362362,
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "zip": 302001,
+  "skills": "Python,Github,Flutter,AWS",
+  "gradDate": "2005",
+  "admin": "rekha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095537d45103800155d4913"
+  },
+  "firstName": "Bipul",
+  "lastName": "Gautam",
+  "headLine": "Student",
+  "email": "19bcs023@iiitdwd.ac.in",
+  "mobile": 918671333456,
+  "city": "Patna",
+  "state": "Bihar",
+  "zip": 800001,
+  "skills": "Web Development",
+  "gradDate": "2023",
+  "admin": "Bipul Gautam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095626945103800155d4925"
+  },
+  "firstName": "Raj",
+  "lastName": "Das",
+  "headLine": "Student",
+  "email": "rahj.das2@gmail.com",
+  "mobile": 919876543247,
+  "city": "Hubballi",
+  "state": "Karnataka",
+  "zip": 534212,
+  "skills": "Web Development",
+  "gradDate": "2022",
+  "admin": "Rajdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095631145103800155d4927"
+  },
+  "firstName": "Zeher",
+  "lastName": "Hussain",
+  "headLine": "Student",
+  "email": "zhr535@gmail.com",
+  "mobile": 918674567977,
+  "city": "Mallapuram",
+  "state": "Kerala",
+  "zip": 500932,
+  "skills": "content writing",
+  "gradDate": "2008",
+  "admin": "Zeher",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095693b45103800155d492d"
+  },
+  "firstName": "Deepika",
+  "lastName": "kumari",
+  "headLine": "Better three hours too soon than a minute too late.",
+  "email": "deepika26@gmail.com",
+  "mobile": 7542522198,
+  "city": "Banglore",
+  "state": "Karnataka",
+  "zip": 600050,
+  "skills": "training and learning: communications skills, application of number, IT, problem solving, and improving own learning and performance",
+  "gradDate": "2009",
+  "admin": "Deepika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60956eae45103800155d4930"
+  },
+  "firstName": "lekhana",
+  "lastName": "potti",
+  "headLine": "There is nothing either good or bad, but thinking makes it so.",
+  "email": "lekhana52@gmail.com",
+  "mobile": 9836472635,
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": 380006,
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "gradDate": "2007",
+  "admin": "lekhana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095760045103800155d493a"
+  },
+  "firstName": "Pappi",
+  "lastName": "Lehri",
+  "headLine": "Professional",
+  "email": "pappi2211@gmail.com",
+  "mobile": 916723333333,
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "zip": 400001,
+  "skills": "Content writing",
+  "gradDate": "1997",
+  "admin": "Pappi Lehri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095784545103800155d4942"
+  },
+  "firstName": "katilana",
+  "lastName": " ",
+  "headLine": "Professional",
+  "email": "katilana32@gmail.com",
+  "mobile": 42675327357835,
+  "city": "Budapest",
+  "state": "Hungary",
+  "zip": 6369392,
+  "skills": "WEB DEVELOPER",
+  "gradDate": "2022",
+  "admin": "Katilana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957b6445103800155d4949"
+  },
+  "firstName": "Katrina ",
+  "lastName": " ",
+  "headLine": "Student",
+  "email": "katrina321@gmail.com",
+  "mobile": 913333333333,
+  "city": "Burdawan",
+  "state": "West Bengal",
+  "zip": 300333,
+  "skills": "MongoDB",
+  "gradDate": "2020",
+  "admin": "Katrina",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60957e4845103800155d4952"
+  },
+  "firstName": "Salman",
+  "lastName": "Khann",
+  "headLine": "Student",
+  "email": "selmon3627@gmail.com",
+  "mobile": 918754544222,
+  "city": "Puducherry",
+  "state": "Podicherry",
+  "zip": 778798,
+  "skills": "Creative Writing",
+  "gradDate": "2021",
+  "admin": "Salman",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095803245103800155d4958"
+  },
+  "firstName": "Rinku",
+  "lastName": "Rinku",
+  "headLine": "Professional",
+  "email": "rinku21@gmail.com",
+  "mobile": 91667388888,
+  "city": "Sri City",
+  "state": "Andhra Pradesh",
+  "zip": 873799,
+  "skills": "UI/UX",
+  "gradDate": "2015",
+  "admin": "Rinku",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609586fc45103800155d4967"
+  },
+  "firstName": "Kiran",
+  "lastName": "Das",
+  "headLine": "Professional",
+  "email": "kiran2@gmail.com",
+  "mobile": 917384787482,
+  "city": "Mokama",
+  "state": "Bihar",
+  "zip": 636836,
+  "skills": "Web devlopment",
+  "gradDate": "2021",
+  "admin": "Kiran Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993642e2b1480015cc90bf"
+  },
+  "firstName": "Nirbhay",
+  "lastName": "Jain",
+  "headLine": "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
+  "email": "nirbhayraj@gmail.com",
+  "mobile": 9897897889,
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "zip": 534134,
+  "skills": "Node.js PHP HTML CSS JavaScript MongoDB ReactJS SASS Bootstrap media query WordPress Adobe Photoshop MySQL",
+  "gradDate": "2012",
+  "admin": "Nirbhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099382de2b1480015cc90c3"
+  },
+  "firstName": "Netra",
+  "lastName": "Jairaj",
+  "headLine": "There is nothing either good or bad but thinking makes it so.",
+  "email": "netrareddy18@gmail.com",
+  "mobile": 9876765456,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 569067,
+  "skills": "Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters Teaching underprivileged children (optional)",
+  "gradDate": "2007",
+  "admin": "Netra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993a6fe2b1480015cc90cb"
+  },
+  "firstName": "Niranjan",
+  "lastName": "singh",
+  "headLine": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+  "email": "niranjan1704@gmail.com",
+  "mobile": 7896576846,
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "zip": 534124,
+  "skills": "Adobe Photoshop , Adobe Illustrator , Video Editing , Adobe Premiere Pro Final Cut Pro Adobe After Effects Animation",
+  "gradDate": "2014",
+  "admin": "Niranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993b95e2b1480015cc90ce"
+  },
+  "firstName": "Sukesh",
+  "lastName": "Rao",
+  "headLine": "Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.",
+  "email": "sukeshrao31@gmail.com",
+  "mobile": 9876765345,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "Writing blogs, articles, emailers & newsletters Teaching underprivileged children (optional)",
+  "gradDate": "2007",
+  "admin": "Sukesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993e3ce2b1480015cc90d5"
+  },
+  "firstName": "Rohan",
+  "lastName": "Raj",
+  "headLine": "If you can look into the seeds of time, and say which grain will grow and which will not, speak then unto me.",
+  "email": "rohanraj10@gmail.com",
+  "mobile": 9564376854,
+  "city": "Kolkatha",
+  "state": "West Bengal",
+  "zip": 734109,
+  "skills": "Clear Communication Skills. Self-Control",
+  "gradDate": "2016",
+  "admin": "Rohan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60994065e2b1480015cc90da"
+  },
+  "firstName": "Kumari",
+  "lastName": "Ratna",
+  "headLine": "Things done well and with a care, exempt themselves from fear.",
+  "email": "kumari72@gmail.com",
+  "mobile": 7654326798,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter",
+  "gradDate": "2012",
+  "admin": "Kumari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609942f0e2b1480015cc90e3"
+  },
+  "firstName": "Sindhu",
+  "lastName": "Goswamy",
+  "headLine": "As soon go kindle fire with snow, as seek to quench the fire of love with words.",
+  "email": "sindhu1205@gmail.com",
+  "mobile": 9264836578,
+  "city": "Banglore",
+  "state": "karnataka",
+  "zip": 534897,
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "gradDate": "2014",
+  "admin": "Sindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099443ee2b1480015cc90e7"
+  },
+  "firstName": "Abdul",
+  "lastName": "Khan",
+  "headLine": "Things won are done, joy's soul lies in the doing.",
+  "email": "abdulkhan@gmail.com",
+  "mobile": 7654698798,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "Writing blogs, articles, emailers & newsletters Preparing well-structured and comprehensive drafts Making content for social media",
+  "gradDate": "2011",
+  "admin": "Abdul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609947abe2b1480015cc90ef"
+  },
+  "firstName": "Prerana",
+  "lastName": "Agarwal",
+  "headLine": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job",
+  "email": "prerana1912@gmail.com",
+  "mobile": 7896576809,
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "zip": 634134,
+  "skills": "1. Handling customer complaints, providing appropriate solutions and alternatives within the time limit & following up to ensure resolution 2. Maintaining a fast response time and great quality over all the modes of customer communication (email, chat, calls, etc.) 3. Building sustainable relationships and trust with customers through open and interactive communication 4. Coming up with ideas and strategies to increase customer activation, retention, shopping & improving customer experience",
+  "gradDate": "2010",
+  "admin": "Prerana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60994930e2b1480015cc90f3"
+  },
+  "firstName": "Chevi",
+  "lastName": "Mukku",
+  "headLine": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job",
+  "email": "chevi2312@gmail.com",
+  "mobile": 9878786543,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "gradDate": "2012",
+  "admin": "Chevi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a84c31eb2fb0015ace06a"
+  },
+  "firstName": "Bindhu",
+  "lastName": "Singh",
+  "headLine": "let's team up ! i can be your support system",
+  "email": "bindhu2510@gmail.com",
+  "mobile": 9564376854,
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "zip": 534134,
+  "skills": "MS-Excel English Proficiency (Spoken) English Proficiency (Written)",
+  "gradDate": "2010",
+  "admin": "Bindhu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a86201eb2fb0015ace06d"
+  },
+  "firstName": "Geetha",
+  "lastName": "Kumari",
+  "headLine": "The fault, dear Brutus, is not in our stars, but in ourselves.",
+  "email": "geethakumari75@gmail.com",
+  "mobile": 8979656543,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "gradDate": "2011",
+  "admin": "Geetha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a88551eb2fb0015ace076"
+  },
+  "firstName": "Agesh",
+  "lastName": "Aagam",
+  "headLine": "We know what we are, but not what we may be.",
+  "email": "ageshkumar@gmail.com",
+  "mobile": 7896576809,
+  "city": "Bangalore",
+  "state": "karnataka",
+  "zip": 786980,
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "gradDate": "2010",
+  "admin": "Agesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a898f1eb2fb0015ace079"
+  },
+  "firstName": "Akshay",
+  "lastName": "Kumar",
+  "headLine": "Stars, hide your fires; Let not light see my black and deep desires.",
+  "email": "akshay17@gmail.com",
+  "mobile": 9876765432,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "ADOBE, PHOTOSHOP",
+  "gradDate": "2007",
+  "admin": "Akshay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8c261eb2fb0015ace083"
+  },
+  "firstName": "Meena",
+  "lastName": "Kukkala",
+  "headLine": "I like this and could willingly waste my time in it.",
+  "email": "meena2812@gmail.com",
+  "mobile": 7896576809,
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": 934134,
+  "skills": "Social Media Marketing Blogging Google Analytics Search Engine Marketing (SEM) Digital Marketing Google AdWords Search Engine Optimization (SEO) Facebook Marketing Email Marketing Instagram Marketing",
+  "gradDate": "2013",
+  "admin": "Meena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8d3f1eb2fb0015ace086"
+  },
+  "firstName": "Megha",
+  "lastName": "Akash",
+  "headLine": "My words fly up, my thoughts remain below: Words without thoughts never to heaven go.",
+  "email": "meghasingh@gmail.com",
+  "mobile": 7654698798,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "Making suitable typographic images with the content provided Brainstorming new ideas, layouts, and graphics Staying up-to-date with design application changes and industry developments",
+  "gradDate": "2012",
+  "admin": "Megha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8daf1eb2fb0015ace087"
+  },
+  "firstName": "Olivia",
+  "lastName": "Oggy",
+  "headLine": "recruiter",
+  "email": "olly@gmail.com",
+  "mobile": 7256931240,
+  "city": "Ohio",
+  "state": "New York",
+  "zip": 100253,
+  "skills": "managing",
+  "gradDate": "25.01.1977",
+  "admin": "Olivia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a906e1eb2fb0015ace095"
+  },
+  "firstName": "Ranjan",
+  "lastName": "Singh",
+  "headLine": "God has given you one face, and you make yourself another.",
+  "email": "ranjan75@gmail.com",
+  "mobile": 9564376854,
+  "city": "Patna",
+  "state": "Bihar",
+  "zip": 434134,
+  "skills": "Social Media Marketing BloggingGoogle  AnalyticsSearch Engine Marketing (SEM)",
+  "gradDate": "2014",
+  "admin": "Ranjan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a91041eb2fb0015ace099"
+  },
+  "firstName": "Ramesh",
+  "lastName": "Prasad",
+  "headLine": "freelancer",
+  "email": "ramesh420@gmail.com",
+  "mobile": 8852892268,
+  "city": "GAYA",
+  "state": "BIHAR",
+  "zip": 823003,
+  "skills": "android developer",
+  "gradDate": "25.01.2019",
+  "admin": "Ramesh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a91c81eb2fb0015ace09f"
+  },
+  "firstName": "Mehereen",
+  "lastName": "Pirzada",
+  "headLine": "produce entertaining or educational material and are responsible for the contribution of information to any media",
+  "email": "mehereen2@gmail.com",
+  "mobile": 9876765432,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters Teaching underprivileged children (optional)",
+  "gradDate": "2017",
+  "admin": "Mehereen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a93d61eb2fb0015ace0ae"
+  },
+  "firstName": "Kajal",
+  "lastName": "sharma",
+  "headLine": "The Best Way To Get Started Is To Quit Talking And Begin Doing.",
+  "email": "kajal34@gmail.com",
+  "mobile": 9865362627,
+  "city": "kolkata",
+  "state": "west bengal",
+  "zip": 237464,
+  "skills": "Preparing well-structured and comprehensive drafts Making content for social media Curating content for Facebook, Instagram & Twitter Writing blogs, articles, emailers & newsletters",
+  "gradDate": "2009",
+  "admin": "Kajal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a97ca1eb2fb0015ace0bf"
+  },
+  "firstName": "Samantha",
+  "lastName": "raj",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today",
+  "email": "samantha69@gmail.com",
+  "mobile": 9836473657,
+  "city": "Raipur ",
+  "state": "rajasthan",
+  "zip": 846374,
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "gradDate": "2003",
+  "admin": "Samantha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aa02d1eb2fb0015ace0d0"
+  },
+  "firstName": "Sreeram",
+  "lastName": "Tej",
+  "headLine": "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+  "email": "sreeram69@gmail.com",
+  "mobile": 9376475674,
+  "city": "chandigarh",
+  "state": "punjab",
+  "zip": 834366,
+  "skills": "HTML,CSS,Javascript,node.js,React",
+  "gradDate": "2006",
+  "admin": "Sreeram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aad291eb2fb0015ace0e9"
+  },
+  "firstName": "Manikanta",
+  "lastName": "dev",
+  "headLine": "Programs must be written for people to read, and only incidentally for machines to execute.",
+  "email": "manikanta26@gmail.com",
+  "mobile": 9836472354,
+  "city": "surat",
+  "state": "Gujarat",
+  "zip": 380054,
+  "skills": "Social Media Marketing BloggingGoogle  AnalyticsSearch Engine Marketing (SEM) Digital Marketing Google AdWordsSearch Engine Optimization (SEO) Facebook Marketing Email Marketing Instagram Marketing",
+  "gradDate": "2010",
+  "admin": "Manikanta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab0521eb2fb0015ace0f2"
+  },
+  "firstName": "Nidhi",
+  "lastName": "agarwal",
+  "headLine": "Best services @ best price.",
+  "email": "nidhi96@gmail.com",
+  "mobile": 9865362631,
+  "city": "delhi",
+  "state": "delhi",
+  "zip": 874356,
+  "skills": "MS-Excel English Proficiency (Spoken) English Proficiency (Written)",
+  "gradDate": "2008",
+  "admin": "Nidhi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ab2551eb2fb0015ace0f6"
+  },
+  "firstName": "Zareena",
+  "lastName": "khan",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today",
+  "email": "zareena87@gmail.com",
+  "mobile": 9836472386,
+  "city": "vijayawada",
+  "state": "andhra pradesh",
+  "zip": 380054,
+  "skills": "Researching industry-related engaging topics Preparing well-structured and comprehensive drafts Making content for social media",
+  "gradDate": "2006",
+  "admin": "Zareena",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b06772cbd6b00153a78b2"
+  },
+  "firstName": "Abhishek",
+  "lastName": "Tripathi",
+  "headLine": "Designer",
+  "email": "abhishek7@gmail.com",
+  "mobile": 9653060806,
+  "city": "Allahabad",
+  "state": "Uttar Pradesh",
+  "zip": 211006,
+  "skills": "Photoshop Illustrator & Canva",
+  "gradDate": "2023",
+  "admin": "abhishek",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b7984b6d3ec0015e559b0"
+  },
+  "firstName": "Koneru",
+  "lastName": "Krishna",
+  "headLine": "hey guys I do out sourcing here",
+  "email": "rehasreekoneru@gmail.com",
+  "mobile": 918341655595,
+  "city": "vijayawada",
+  "state": "Andhra pradesh",
+  "zip": 521137,
+  "skills": "Communication, Attractive presentation",
+  "gradDate": "2018",
+  "admin": "Krishna2704",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bb7ae82d91300152e0669"
+  },
+  "firstName": "Neelmani",
+  "lastName": "Yadav",
+  "headLine": "exploring tech world!!!!",
+  "email": "neel@gmail.com",
+  "mobile": 7619882271,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 211011,
+  "skills": "HTML, CSS, Jquery, Javascript",
+  "gradDate": "2015",
+  "admin": "neelmani yadav",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bb8e582d91300152e066b"
+  },
+  "firstName": "Akash ",
+  "lastName": "Singh",
+  "headLine": "My life is better than my daydreams",
+  "email": "akash@gmail.com",
+  "mobile": 9965645744,
+  "city": "Allahabad",
+  "state": "uttar pradesh",
+  "zip": 211003,
+  "skills": "photoshop, UI/UX",
+  "gradDate": "2016",
+  "admin": "akash_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc0b682d91300152e0677"
+  },
+  "firstName": "Ewin",
+  "lastName": "Joseph",
+  "headLine": "My life is better than my daydreams",
+  "email": "ejoseph@gmail.com",
+  "mobile": 9854546325,
+  "city": "chennai",
+  "state": "tamil nadu",
+  "zip": 211006,
+  "skills": "Meeting Sales Goals. Negotiation. Sell to Customer Needs. Motivation. Sales Planning. Build Relationships. Coaching. Manage Processes.",
+  "gradDate": "2012",
+  "admin": "ewin_joseph",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc3c782d91300152e067b"
+  },
+  "firstName": "Rahul",
+  "lastName": "Veloce",
+  "headLine": "exploring tech world!!!!",
+  "email": "veloce@gmail.com",
+  "mobile": 7619882271,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 231313,
+  "skills": "Equipment handling. Customer service skills.  Research skills.  Self-motivation.",
+  "gradDate": "2016",
+  "admin": "rahul_veloce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be8e2268c9e001542257b"
+  },
+  "firstName": "Sitha",
+  "lastName": "Ram",
+  "headLine": "Best design services just a click away, at reasonable deals.",
+  "email": "sitha83@gmail.com",
+  "mobile": 7896576809,
+  "city": "Hubli",
+  "state": "karnataka",
+  "zip": 634134,
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "gradDate": "2016",
+  "admin": "Sitha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609beda7268c9e0015422587"
+  },
+  "firstName": "Aditya",
+  "lastName": "Varma",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today.",
+  "email": "aditya65@gmail.com",
+  "mobile": 9564376854,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 678987,
+  "skills": "HTML , CSS , JAVA SCRIPT , REACTJS, NODE JS",
+  "gradDate": "2012",
+  "admin": "Aditya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bee01268c9e0015422588"
+  },
+  "firstName": "Sasank",
+  "lastName": "Kumar",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today.",
+  "email": "sasank69@gmail.com",
+  "mobile": 8675456767,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "Designing banners for website, content, and proportional advertisements whenever needed",
+  "gradDate": "2012",
+  "admin": "Sasank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf118268c9e0015422595"
+  },
+  "firstName": "Kiran ",
+  "lastName": "Reddy",
+  "headLine": "“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”",
+  "email": "kiran1212@gmail.com",
+  "mobile": 9897897889,
+  "city": "Bangalore",
+  "state": "karnataka",
+  "zip": 647584,
+  "skills": "MS-Word AccountingTally MS-Excel Financial Modeling",
+  "gradDate": "2013",
+  "admin": "Kiran",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf17b268c9e0015422596"
+  },
+  "firstName": "Meera",
+  "lastName": "Sharma",
+  "headLine": "A language that doesn't affect the way you think about programming is not worth knowing.",
+  "email": "meera56@gmail.com",
+  "mobile": 9786576567,
+  "city": "hyderabad",
+  "state": "telangana",
+  "zip": 500039,
+  "skills": "ADOBE, PHOTOSHOP",
+  "gradDate": "2012",
+  "admin": "Meera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf480268c9e00154225a3"
+  },
+  "firstName": "Lokender",
+  "lastName": "Gupta",
+  "headLine": "Put two ships in the open sea, without wind or tide, and, at last, they will come together. Throw two planets into space, and they will fall one on the other. Place two enemies in the midst of a crowd, and they will inevitably meet; it is a fatality, a question of time; that is all.",
+  "email": "lokender36@gmail.com",
+  "mobile": 9897897889,
+  "city": "Vizag",
+  "state": "ANDHRA PRADESH",
+  "zip": 534134,
+  "skills": "ADOBE, PHOTOSHOP",
+  "gradDate": "2007",
+  "admin": "Lokender",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf4d0268c9e00154225a4"
+  },
+  "firstName": "Hasya",
+  "lastName": "Reddy",
+  "headLine": "Truth can only be found in one place: the code.",
+  "email": "hasya45@gmail.com",
+  "mobile": 8976576898,
+  "city": "Mumbai",
+  "state": "Maharastra",
+  "zip": 673548,
+  "skills": "English Proficiency",
+  "gradDate": "2008",
+  "admin": "Hasya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf6d6268c9e00154225ad"
+  },
+  "firstName": "Bhanu",
+  "lastName": "reddy",
+  "headLine": "The Best Way To Get Started Is To Quit Talking And Begin Doing.",
+  "email": "bhanu72@gmail.com",
+  "mobile": 9865362453,
+  "city": "chennai",
+  "state": "tamil nadu",
+  "zip": 302094,
+  "skills": "Social Media Marketing BloggingGoogle  AnalyticsSearch Engine Marketing (SEM) Digital Marketing Google AdWordsSearch Engine Optimization (SEO) Facebook Marketing Email Marketing Instagram Marketing",
+  "gradDate": "2006",
+  "admin": "Bhanu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf7f7268c9e00154225b0"
+  },
+  "firstName": "Aishwarya",
+  "lastName": "raj",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today",
+  "email": "aishwarya312",
+  "mobile": 9836472656,
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": 380006,
+  "skills": "Adobe photoshop,Adobe illustrator,CoreIDraw,Adobe indesign,Adobe after effects",
+  "gradDate": "2010",
+  "admin": "Aishwarya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf9d6268c9e00154225ba"
+  },
+  "firstName": "Gayatri",
+  "lastName": "sharma",
+  "headLine": "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.",
+  "email": "gayatri96@gmail.com",
+  "mobile": 9865362674,
+  "city": "delhi",
+  "state": "delhi",
+  "zip": 237485,
+  "skills": "Adobe illustrator, Adobe photoshoot",
+  "gradDate": "2004",
+  "admin": "Gayatri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfaf5268c9e00154225c0"
+  },
+  "firstName": "Harsha",
+  "lastName": "mudhiraj",
+  "headLine": "Programs must be written for people to read, and only incidentally for machines to execute.",
+  "email": "harsha84@gmail.com",
+  "mobile": 9836472375,
+  "city": "vijayawada",
+  "state": "andhra pradesh",
+  "zip": 380054,
+  "skills": "HTML,CSS,javascript,node.js,react",
+  "gradDate": "2010",
+  "admin": "Harsha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfbb9268c9e00154225c3"
+  },
+  "firstName": "Rohith",
+  "lastName": "saral",
+  "headLine": "Don’t Let Yesterday Take Up Too Much Of Today.",
+  "email": "rohith20@gmail.com",
+  "mobile": 7544861233,
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "zip": 245913,
+  "skills": "MS-Word Accounting Tally MS-Excel Financial Modeling MS-PowerPoint English Proficiency (Spoken) English Proficiency (Written)",
+  "gradDate": "2016",
+  "admin": "Rohith",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bfd78268c9e00154225cf"
+  },
+  "firstName": "Ujjwal",
+  "lastName": "Pandey",
+  "headLine": "My life is better than my daydreams",
+  "email": "sagarpandey@gmail.com",
+  "mobile": 9854546325,
+  "city": "Allahabad",
+  "state": "uttar pradesh",
+  "zip": 211013,
+  "skills": "HTML, JavaScript ,Node.js ,GitHub ,ReactJS ,Redux",
+  "gradDate": "2014",
+  "admin": "ujjwal_pandey",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bff16268c9e00154225d0"
+  },
+  "firstName": "Lasya",
+  "lastName": "Priya",
+  "headLine": "It’s Not Whether You Get Knocked Down, It’s Whether You Get up.",
+  "email": "lasya56@gmail.com",
+  "mobile": 7456126833,
+  "city": "Lucknow",
+  "state": "UttarPradesh",
+  "zip": 115462,
+  "skills": "MS-Word Accounting Tally MS-Excel Financial Modeling MS-PowerPoint English Proficiency (Spoken) English Proficiency (Written)",
+  "gradDate": "2006",
+  "admin": "Lasya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0022268c9e00154225d2"
+  },
+  "firstName": "Lahari",
+  "lastName": "kumari",
+  "headLine": "Walking on water and developing software from a specification are easy if both are frozen.",
+  "email": "lahari36@gmail.com",
+  "mobile": 7544364439,
+  "city": "Lucknow",
+  "state": "UttarPradesh",
+  "zip": 112468,
+  "skills": "Backend relevant skills frontend relevant skills Delivering the best User experience",
+  "gradDate": "2019",
+  "admin": "Lahari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c011d268c9e00154225d4"
+  },
+  "firstName": "Neha ",
+  "lastName": "Kumari",
+  "headLine": "managing director",
+  "email": "neha125@gmail.com",
+  "mobile": 9952852266,
+  "city": "GAYA",
+  "state": "BIHAR",
+  "zip": 823003,
+  "skills": "React native development",
+  "gradDate": "25.01.1990",
+  "admin": "Neha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c04c7268c9e00154225dc"
+  },
+  "firstName": "Anmol",
+  "lastName": "Kumar",
+  "headLine": "web developer",
+  "email": "anmol78@gmail.com",
+  "mobile": 7852202266,
+  "city": "GAYA",
+  "state": "BIHAR",
+  "zip": 823003,
+  "skills": "React.js",
+  "gradDate": "25.01.2001",
+  "admin": "Anmol",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c04e5268c9e00154225dd"
+  },
+  "firstName": "Srisiva",
+  "lastName": "K",
+  "headLine": "Programs must be written for people to read, and only incidentally for machines to execute.",
+  "email": "srisiva66@gmail.com",
+  "mobile": 7564102378,
+  "city": "Indore",
+  "state": "MadhyaPradesh",
+  "zip": 141298,
+  "skills": "Skills related to web designing, graphic designing.",
+  "gradDate": "2007",
+  "admin": "Srisiva",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0646268c9e00154225e2"
+  },
+  "firstName": "Niharika",
+  "lastName": "Chintha",
+  "headLine": "It’s Not Whether You Get Knocked Down, It’s Whether You Get up.",
+  "email": "niharika22@gmail.com",
+  "mobile": 8725304165,
+  "city": "Lucknow",
+  "state": "UttarPradesh",
+  "zip": 112468,
+  "skills": "1.Creating blogs and researching for content ideas for social media platforms 2.Work closely with marketing team members 3.Optimize content using SEO best practices 4.Writing content for brochures and catalogues",
+  "gradDate": "2009",
+  "admin": "Niharika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0843268c9e00154225ed"
+  },
+  "firstName": "Soumika",
+  "lastName": "Yadav",
+  "headLine": "A language that doesn't affect the way you think about programming is not worth knowing.",
+  "email": "soumika74@gmail.com",
+  "mobile": 8725304164,
+  "city": "Lucknow",
+  "state": "UttarPradesh",
+  "zip": 112468,
+  "skills": "Node.js PHP MongoDB ReactJS SASS Bootstrap media query WordPress Adobe Photoshop MySQL HTML CSS JavaScript Backend relevant skills",
+  "gradDate": "2015",
+  "admin": "Soumika",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c087d268c9e00154225ee"
+  },
+  "firstName": "Anjali",
+  "lastName": "Kumari",
+  "headLine": "Cloud developer",
+  "email": "anjali12@gmail.com",
+  "mobile": 6851102266,
+  "city": "GAYA",
+  "state": "BIHAR",
+  "zip": 823003,
+  "skills": "AWS",
+  "gradDate": "25.01.2022",
+  "admin": "Anjali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0974268c9e00154225f2"
+  },
+  "firstName": "Swadeep ",
+  "lastName": "chauhan",
+  "headLine": "exploring tech world!!!!",
+  "email": "swadychauhan@gmail.com",
+  "mobile": 9451847996,
+  "city": "Lucknow",
+  "state": "UTTAR PRADESH",
+  "zip": 211111,
+  "skills": "HTML, CSS, Jquery, Javascript",
+  "gradDate": "2014",
+  "admin": "swadeep_chauhan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c0a52268c9e00154225f4"
+  },
+  "firstName": "Pranathi",
+  "lastName": "Raj",
+  "headLine": "Better three hours too soon than a minute too late.",
+  "email": "pranathi78@gmail.com",
+  "mobile": 7893126145,
+  "city": "Pune",
+  "state": "Maharastra",
+  "zip": 194523,
+  "skills": "Social Media Marketing BloggingGoogle  AnalyticsSearch Engine Marketing (SEM) Digital Marketing Google AdWordsSearch Engine Optimization (SEO) Facebook Marketing Email Marketing Instagram Marketing",
+  "gradDate": "2019",
+  "admin": "Pranathi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c353a5651480015310d73"
+  },
+  "firstName": "Akshay",
+  "lastName": "Das",
+  "headLine": "Professional",
+  "email": "akshay.das@gmail.com",
+  "mobile": 9636985639,
+  "city": "Bakhtiyarpur",
+  "state": "Bihar",
+  "zip": 803245,
+  "skills": "Web Development",
+  "gradDate": "2008",
+  "admin": "Akshay Das",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c38f35651480015310d7b"
+  },
+  "firstName": "Praneeta",
+  "lastName": " ",
+  "headLine": "Professional",
+  "email": "praneeta@gmail.com",
+  "mobile": 9636985959,
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "zip": 409754,
+  "skills": "UI/UX Developer",
+  "gradDate": "2008",
+  "admin": "Praneeta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c3d935651480015310d82"
+  },
+  "firstName": "Karan",
+  "lastName": " ",
+  "headLine": "Professional",
+  "email": "karan@gmail.com",
+  "mobile": 9636985963,
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "zip": 409754,
+  "skills": "Web Development",
+  "gradDate": "2008",
+  "admin": "Karan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c409a5651480015310d89"
+  },
+  "firstName": "Mayank",
+  "lastName": " ",
+  "headLine": "Professional",
+  "email": "mayank@gmail.com",
+  "mobile": 8965665888,
+  "city": "Patna",
+  "state": "Bihar",
+  "zip": 800001,
+  "skills": "UI/UX Developer",
+  "gradDate": "2008",
+  "admin": "Mayank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c43785651480015310d91"
+  },
+  "firstName": "Raj",
+  "lastName": " ",
+  "headLine": "Professional",
+  "email": "raj@gmail.com",
+  "mobile": 8969898969,
+  "city": "Bakhtiyarpur",
+  "state": "Bihar",
+  "zip": 803245,
+  "skills": "Figma, Adobe Photoshop ",
+  "gradDate": "2008",
+  "admin": "Raj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d091097b62a001541edd8"
+  },
+  "firstName": "shraddha",
+  "lastName": "sharma",
+  "headLine": "exploring tech world!!!!",
+  "email": "shrddha2012@gmail.com",
+  "mobile": 7619882271,
+  "city": "prayagraj",
+  "state": "UTTAR PRADESH",
+  "zip": 211011,
+  "skills": "Data Mining, Web Scraping, Data Science, Mysql, Mongodb, Data VisualizationR , Programming, Python3",
+  "gradDate": "2016",
+  "admin": "shraddha_sharma      ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d0b2197b62a001541eddc"
+  },
+  "firstName": "srishti",
+  "lastName": "Singh",
+  "headLine": "I will help you create a winning crowdfunding strategy",
+  "email": "srishtisingh1jan@gmail.com",
+  "mobile": 9965645744,
+  "city": "chennai",
+  "state": "tamil nadu",
+  "zip": 211006,
+  "skills": "Digital Marketing , Marketing Strategy",
+  "gradDate": "2015",
+  "admin": "srishti_singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609daf19cb669d001598b729"
+  },
+  "firstName": "Devanshi",
+  "lastName": "upadhyay",
+  "headLine": "s work hard unconditionally for your business and carefully research the best keywords, ensuring top-quality traffic to skyrocket your sales. Our SEO, growth hacking, lead generation, web development, and content writing services will help you boost your sales.",
+  "email": "devanshi21mar@gmail.com",
+  "mobile": 7619882271,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 265656,
+  "skills": "Arts  Business  Crypto & Blockchain  Cyber Security  E-Commerce",
+  "gradDate": "2016",
+  "admin": "devanshi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609daf94cb669d001598b72b"
+  },
+  "firstName": "abu",
+  "lastName": "bakar",
+  "headLine": "I will help you create a winning crowdfunding strategy",
+  "email": "abu2002@gmail.com",
+  "mobile": 9854546325,
+  "city": "Allahabad",
+  "state": "uttar pradesh",
+  "zip": 211006,
+  "skills": "Graphic DesignAdobeillustratorAdobephotoshopLogo DesignStationary DesignAdobe IllustratorAdobe PhotoshopMinimalist Logo DesignModern LogoBrand Style GuidesCustom Logo DesignBusiness Logo DesignStationery DesignSocial Media DesignSignature Logo",
+  "gradDate": "2012",
+  "admin": "abu_bakar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dafa8cb669d001598b72c"
+  },
+  "firstName": "abu",
+  "lastName": "bakar",
+  "headLine": "I will help you create a winning crowd strategy",
+  "email": "abu2002@gmail.com",
+  "mobile": 9854546325,
+  "city": "Allahabad",
+  "state": "uttar pradesh",
+  "zip": 211006,
+  "skills": "Graphic DesignAdobeillustratorAdobephotoshopLogo DesignStationary DesignAdobe IllustratorAdobe PhotoshopMinimalist Logo DesignModern LogoBrand Style GuidesCustom Logo DesignBusiness Logo DesignStationery DesignSocial Media DesignSignature Logo",
+  "gradDate": "2012",
+  "admin": "abu_bakar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db512cb669d001598b73d"
+  },
+  "firstName": "soor",
+  "lastName": "yash",
+  "headLine": "exploring tech world!!!!",
+  "email": "sooryaash@gmail.com",
+  "mobile": 7619882271,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 236547,
+  "skills": " PHP HTML Lravel 5.x ( Blade, Schema Builder, Service Provider, Migrations, Composer, Service Container, CRUD( Create, Read, Update, and Delete) operations, MVC (Model View Controller)) MySql Bootstrap 4",
+  "gradDate": "2015",
+  "admin": "sooryash ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db59dcb669d001598b73f"
+  },
+  "firstName": "yash",
+  "lastName": "rastogi",
+  "headLine": "My life is better than my daydreams",
+  "email": "yash_r@gmail.com",
+  "mobile": 9854546325,
+  "city": "chennai",
+  "state": "tamil nadu",
+  "zip": 211003,
+  "skills": "English Proficiency (Spoken) English Proficiency (Written)",
+  "gradDate": "2014",
+  "admin": "yash_rastogi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609db8e2cb669d001598b749"
+  },
+  "firstName": "gunjan",
+  "lastName": "choudhary",
+  "headLine": "I will shopify SEO 1st page ranking on google guaranteed",
+  "email": "gunjan001green@gmail.com",
+  "mobile": 7619882271,
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "zip": 265626,
+  "skills": "Optimization of Pages Titles & Descriptions Google Analytics Set-Up  Products Meta Titles & Meta Description   Keyword Optimization With Enhanced Research Tools   Alt tag Of Images ( With App)  Submission of Store to Google & Other Search Engines  XML sitemap    Robots.txt Indexing of Your Website",
+  "gradDate": "2016",
+  "admin": "gunjan_choudhary",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609dbf5acb669d001598b74d"
+  },
+  "firstName": "zoya",
+  "lastName": "khan",
+  "headLine": "I will do custom order related to graphic design work",
+  "email": "zoyakhan20@gmail.com",
+  "mobile": 9965645744,
+  "city": "Allahabad",
+  "state": "uttar pradesh",
+  "zip": 211006,
+  "skills": "Graphic DesignAdobeillustratorAdobephotoshopLogo DesignStationary DesignAdobe IllustratorAdobe PhotoshopMinimalist Logo DesignModern LogoBrand Style GuidesCustom Logo DesignBusiness Logo DesignStationery DesignSocial Media DesignSignature Logo",
+  "gradDate": "2014",
+  "admin": "zoya_khan ",
+  "__v": 0
+}]
