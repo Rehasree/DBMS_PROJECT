@@ -6,7 +6,7 @@
 </a>**
 **<p> <b>Team</b> </p>**
  -K.Rehasree (19BCS057) <br />
- -Ch.Shivsthmika(19BCS029) <br />
+ -Ch.Shivathmika(19BCS029) <br />
  -K.Sucharitha(19BCS058) <br />
  -K.Dinesh(19BCS060) <br />
  -Divyansh Tripathi (19BCS039) <br />
