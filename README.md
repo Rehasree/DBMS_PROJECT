@@ -1,5 +1,6 @@
 **<p align="center"> Indian Institute of Information Technology, DHARWAD </p>**
 **<p align="center"> Computer Science </p>**
+**<p align="center"> DBMS ( sem-4 |2019-2023 Batch) </p> <br />**
 **<p> <b>Team</b> </p>**
  -K.Rehasree (19BCS057) <br />
  -Ch.Shivsthmika(19BCS029) <br />
@@ -10,7 +11,6 @@
  -Bipul Gautham (19BCS023) <br />
  -Anmol Kumar(19BCS011) <br />
  -Chaintanya S Hegde(19BCS027) <br />
-<p align="center"> DBMS ( sem-4 |2019-2023 Batch) </p> <br />
 
 # Table of Contents
 - [General info](#desc)
