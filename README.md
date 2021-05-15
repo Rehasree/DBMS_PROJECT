@@ -1,12 +1,13 @@
 **<p align="center"> Indian Institute of Information Technology, DHARWAD </p>**
 **<p align="center"> Computer Science </p>**
+**<p align="center"> DBMS ( sem-4 |2019-2023 Batch) </p> <br />**
 **<p align="center"> DBMS PROJECT ( sem-4 |2019-2023 Batch) </p> <br />**
 **<a align="center" href="https://dbms2704.herokuapp.com/"> 
 #HIREBOOK
 </a>**
 **<p> <b>Team</b> </p>**
  -K.Rehasree (19BCS057) <br />
- -Ch.Shivsthmika(19BCS029) <br />
+ -Ch.Shivathmika(19BCS029) <br />
  -K.Sucharitha(19BCS058) <br />
  -K.Dinesh(19BCS060) <br />
  -Divyansh Tripathi (19BCS039) <br />
