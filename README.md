@@ -41,6 +41,12 @@ Open localhost:3000 and to find the magic
 # Prerequisites
 - MongoDB
 - Nodejs
+- Express JS
+- React JS
+- HTML
+- CSS
+- JS
+
 <a name="pre"></a>
 # CODE
 Best to see in 67% 
