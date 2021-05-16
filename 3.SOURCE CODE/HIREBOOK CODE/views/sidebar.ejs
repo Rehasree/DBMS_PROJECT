@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="sidebar.css">
+  <!-- Favicons -->
+  <link
+    href="img/favicon.png"
+    rel="icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- Font Awesome Icon Library -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="vendor/aos/aos.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/shortlist.css" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box
+    }
+
+    body {
+      font-family: "Lato", sans-serif;
+    }
+
+    /* Style the tab */
+    .tab {
+      float: left;
+
+      background-color: #fff;
+      width: 250px;
+      height: 500px;
+    }
+
+    /* Style the buttons inside the tab */
+    .tab button {
+      display: block;
+      background-color: inherit;
+      color: black;
+      padding: 22px 16px;
+      width: 100%;
+      border: none;
+      outline: none;
+      text-align: left;
+      cursor: pointer;
+      transition: 0.3s;
+      font-size: 17px;
+    }
+
+    /* Change background color of buttons on hover */
+    .tab button:hover {
+      background-color: rgba(83, 46, 165, 0.1);
+    }
+
+    /* Create an active/current "tab button" class */
+    .tab button.active {
+      background-color: rgba(83, 46, 165, 0.1);
+      border-right: 6px solid rgb(36, 22, 68);
+    }
+
+    /* Style the tab content */
+    .tabcontent {
+
+      float: left;
+      padding: 0px 12px;
+
+      width: 100%;
+      border-left: none;
+
+    }
+  </style>
+
+</head>
+
+<body style="overflow-y: auto;">
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+      <img src="img/logo2.png" alt="" class="img-fluid"  >
+      <h1 class="logo me-auto title"><a href="#"> HireBook<br /><span style="font-size: 15px;" class="typed"
+            data-typed-items="By the Indians,For the Indians"></span></a></h1>
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="/Homepage2" style="font-family:poppins ; font-weight: 500; font-size: medium;">Home</a></li>
+          <li><a href="/freelancers" style="font-family:poppins ; font-weight: 500;font-size: medium;">Freelancers</a>
+          </li>
+          <li><a href="/Projects" style="font-family:poppins ; font-weight: 500;font-size: medium;">Projects</a>
+          </li>
+          <li><a href="/contact" style="font-family:poppins ; font-weight: 500;font-size: medium;">Contact</a></li>
+          <li><a href="/ProjectEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Post a
+              Project</a></li>
+          <li><a href="/GigEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Create a gig</a>
+          </li>
+          <li><a href="/help" style="font-family:poppins ; font-weight: 500;font-size: medium;">Help</a></li>
+
+
+        </ul>
+      </nav><!-- .nav-menu -->
+  </header>
+  <!-- Vertical navbar -->
+  <div class="vertical-nav bg-white" id="sidebar">
+    <div class="py-4 px-3 mb-4 bg-light">
+      <div class="media d-flex align-items-center">
+        <div style="height: 70px;width: 70px;border-radius: 50%; background-color:#2A265F; color: white;margin: 3px">
+          <p
+            style="color: whitesmoke; margin-top: 13px; margin-left: 25px; font-size: 30px; font-weight: bold; text-transform: uppercase;">
+            <%= adminName[0]%>
+          </p>
+        </div>
+        <div class="media-body" style="margin-left: 10px;">
+          <h4 class="m-0">
+            <%= adminName %>
+          </h4>
+          <p class="font-weight-normal text-muted mb-0">Web developer</p>
+        </div>
+      </div>
+    </div>
+    <p class="text-gray font-weight-bold text-uppercase px-3 small pb-4 mb-0">Dashboard</p>
+    <div class="tab">
+      <button class="tablinks" onclick="openCity(event, 'Profile')" id="defaultOpen"><i
+          class="fa fa-user mr-3 text-primary fa-fw"></i>Profile</button>
+      <button class="tablinks" onclick="openCity(event, 'InTouch')"><i
+          class="fa fa-address-card mr-3 text-primary fa-fw"></i>In Touch</button>
+      <button class="tablinks" onclick="openCity(event, 'ActiveProjects')"><i
+          class="fa fa-pencil mr-3 text-primary fa-fw"></i>Active Projects</button>
+      <button class="tablinks" onclick="openCity(event, 'PostedProjects')"><i
+          class="fa fa-pencil mr-3 text-primary fa-fw"></i>Posted Projects</button>
+      <button class="tablinks" onclick="openCity(event, 'Gigs')"><i
+          class="fa fa-pencil mr-3 text-primary fa-fw"></i>Gigs</button>
+      <button class="tablinks" onclick="openCity(event, 'Wallet')"><i
+          class="fa fa-money mr-3 text-primary fa-fw"></i>Wallet</button>
+      <a href="/logout"> <button class="tablinks"><i class="fa fa-sign-out mr-3 text-primary fa-fw"></i>Log
+          Out</button></a>
+    </div>
+  </div>
+  <!-- End vertical navbar -->
+  <!-- Page content holder -->
+  <div class="page-content p-5" id="content">
+    <!-- Toggle button -->
+    <button id="sidebarCollapse" style="margin-top: 50px;" type="button"
+      class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i class="fa fa-bars mr-2"></i><small
+        class="text-uppercase font-weight-bold">HIDE</small></button>
+
+    <!-- Demo content -->
+    <div id="Profile" class="tabcontent">
+      <h3>PROFILE</h3>
+      <button type="button" style="background-color:  #302b63" class="btn btn-dark" align="right"><a href="/ProfileEdit" style="color: white;">Create Profile</a></button>
+     
+      <% edit.forEach((row,index)=>{ %>
+        <button type="button" class="btn " style="background-color:  #302b63" align="right"><a href="/edit3/<%= row._id %>"
+            style="color: white; ">Edit
+            Profile</a></button>
+        <button type="button" class="btn " style="background-color:  #302b63"align="right"><a href="/delete3/<%= row._id %>"
+            style="color: white;">Delete
+            Profile</a></button>
+        <br />
+        <br />
+        <div class="row gutters-sm">
+          <div class="col-xl-6">
+            <div class="card ">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Full Name</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.firstName %>
+                      <%= row.lastName%>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Email</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.email %>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Head-line</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.headLine%>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Mobile</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.mobile %>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Address</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.city %>,<%= row.state %>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Skills</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= row.skills %>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Graduation Date</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                      <%=row.gradDate%>
+                  </div>
+                </div>
+                <hr>
+                <div class="row">
+                  <div class="col-sm-3">
+                    <h6 class="mb-0">Refferal Code</h6>
+                  </div>
+                  <div class="col-sm-9 text-secondary">
+                    <%= adminName %>009
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <% }) %>
+
+    </div>
+    <div id="InTouch" class="tabcontent">
+      <h3>In Touch</h3>
+      <br />
+      <div class="container ">
+        <h3>Freelancers Approach</h3>
+        <br />
+
+        <% touch.forEach((row,index)=>{ %>
+          <% if(row.role=='freelancer' ){ %> 
+           <% if(row.admin == adminName){ %>
+            <% count=0 %>
+            <%for(let i=0;i< walletData.length;i++){ %>
+                <% count+=walletData[i].walletDetails %>
+            <% } %>
+           
+           <% } %>
+            <div class="courses-container" style="justify-content:center">
+              <div class="course" style="width: 90%;">
+                <div class="course-preview">
+                  <div class="d-flex flex-column " style="width: 150px;">
+                    <div style="align-items: center;">
+                      <div class="row" style="align-items: center;">
+                        <div class="col">
+                          <img src="uploads/<%=row.details.myimage%>" style="width: 100%; height:90%" />
+                        </div>
+                      </div><br />
+                      <div class="row">
+                        <div class="col" style="font-size: 20px;">
+                          <span><b>Thumbnail </b></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="course-info">
+
+                  <div class="col">
+                    <h2>
+                      <%= row.details.jobTitle %>
+                    </h2>
+
+                    <p>
+                      <%= row.details.workJD%>
+                    </p>
+                  </div>
+                  <div class="row">
+                    <div class="col-xl-4">
+                      <ul>
+                        <li><a target="_blank" href="https://hirebookchat.netlify.app/">
+                            <img style="height: 50px; width: 50px;"
+                              src="data:image/png;base64,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">
+                            Chat here
+                          </a></li>
+
+                      </ul>
+
+                    </div>
+                  </div>
+                  <div class="row Project-Details">
+                    <div class="col">
+                      <p><a href="#" class="startDate"><i class="bx bx-paper-plane"></i>START DATE</a>
+                        <br /><span>
+                          <%= row.details.startDate%>
+                        </span>
+                      </p>
+                    </div>
+                    <div class="col">
+                      <p><a href="#" class="startDate"><i class="bx bx-calendar-event"></i>DURATION</a>
+                        <br /><span>
+                          <%= row.details.applyBy%>
+                        </span>
+                      </p>
+                    </div>
+                    <div class="col">
+                      <p><a href="#" class="startDate"><i class="bx  bx-rename"></i>STIPEND</a>
+                        <br /><span>₹<%= row.details.stipend%></span>
+                      </p>
+                    </div>
+                    <div class="col">
+                      <p><a href="#" class="startDate"><i class="bx bx-time"></i>APPLY BY</a>
+                        <br /><span>
+                          <%= row.details.applyBy%>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="row" style="font-size: large;">
+                    <div class="col-xl-3">
+                      <span><b>Freelancer Name</b></span>
+                      <br />
+                      <%= row.admin%>
+                        <br />
+                        <span><b></b> Chat username: </span></b></b><span>
+                          <%= row.userName%>
+                        </span>
+                    </div>
+                    <div class="col-xl-3">
+                      <span><b>Client Name</b></span>
+                      <br />
+                      <%= row.details.admin%>
+                        <br />
+                        <span><b></b> Chat username: </span></b></b><span>
+                          <%= row.details.admin%>
+                        </span>
+                    </div>
+
+                  </div><br />
+                 
+                    <% let confrimed=false; %>
+                                <% for(let i=0;i< ActiveProjectsData.length ;i++){ %>
+                                 
+                                    <% if(String(ActiveProjectsData[i].inTouchCardDetails._id) === String(row._id) && ActiveProjectsData[i].confirmed){%> 
+                                        
+                                      <%confrimed = true%> 
+                                    <%}%>
+                                <% } %>
+                  <% if(confrimed== true){ %>
+                      <div class="btn w-50" style="background-color: rgb(17, 143, 13);color: white;">Confirmed</div>
+                  <%}else{ %>
+                    <div class="row">
+                      <% if(row.details.admin===adminName){ %>
+                        <div class="col-xl-3">
+                          <form method="POST" action="/sidebar/intouch/<%= row._id %>">
+                            <button target="_blank" href="/payment" style="background-color: #302b63; color: white;" type="submit"
+                              class="btn btn-primary w-100" data-toggle="modal" id="intpuchConfim" this.setAttribute("style", "display: none"); > Confirm</button>
+                          </form>
+                        </div>
+                        <%} %>
+                          <div class="col-xl-3">
+                            <a href="/delete5/<%= row._id %>"> <button type="button"
+                                style="background-color: #302b63; color: white;" type="button"
+                                class="w-100 btn ">Cancel</button></a>
+                          </div>
+                          <br />
+                    </div>
+                  <% } %>
+                
+                </div>
+              </div>
+            </div>
+            <%}%>
+              <% }) %>
+
+                <h3>Clients Approach</h3>
+                <br />
+                <% touch.forEach((row,index)=>{ %>
+                  <% if(row.role=='client' ){ %>
+                      <% if(row.client.owner == adminName){ %>
+                        <% count=0 %>
+                        <%for(let i=0;i< walletData.length;i++){ %>
+                            <% count+=walletData[i].walletDetails %>
+                        <% } %>
+                      <% } %>
+                    <div class="courses-container" style="justify-content:center">
+                      <div class="course" style="width: 90%;">
+                        <div class="course-preview">
+                          <div class="d-flex flex-column " style="width: 150px;">
+                            <div style="align-items: center;">
+                              <div class="row" style="align-items: center;">
+                                <div class="col">
+                                  <img src="https://internshala.com/cached_uploads/logo%2F5fdf9c93a5cbc1608490131.jpg"
+                                    style="width: 100%; height:90%" />
+                                </div>
+                              </div><br />
+                              <div class="row">
+                                <div class="col" style="font-size: 20px;">
+                                  <span><b>Thumbnail </b></span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="course-info">
+                          <div class="row">
+                            <div class="col">
+                              <h2>
+                                <%= row.details.gigTitle%>
+                              </h2>
+                              <p>
+                                <%= row.details.describeGig%>
+                              </p>
+                            </div>
+                          </div>
+                          <div class="col-xl-4">
+                            <ul>
+                              <li><a target="_blank" href="https://hirebookchat.netlify.app/">
+                                  <img style="height: 50px; width: 50px;"
+                                    src="data:image/png;base64,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">
+                                  Chat here
+                                </a></li>
+
+                            </ul>
+
+                          </div>
+                          <div class="row Project-Details">
+                            <div class="col">
+                              <span style="color: green;">Price:₹<%= row.details.price%></span>
+                            </div>
+                          </div><br />
+                          <div class="row" style="font-size: large;">
+                            <div class="col-xl-3">
+
+                              <span><b>Freelancer Name</b></span>
+                              <br />
+                              <span>
+                                <%= row.details.admin%>
+                              </span>
+                            </div>
+                            <div class="col-xl-5">
+                              <span><b>Client Name</b></span>
+                              <br />
+                              <span>
+                                <%= row.admin%>
+                              </span> (<span><b>Chat username :</b>
+                                <%= row.userName%>
+                              </span>)
+                            </div>
+                          </div><br />
+          
+                       
+                         
+                          
+                             <!-- <div class="row">
+                              <button style="background-color: #17f748; color: white;" type="button"
+                              class="btn btn-success w-100" > You have already Confrimed this Project</button>
+                             </div> -->
+                             <% let confrimed=false; %>
+                             <% for(let i=0;i< ActiveProjectsData.length ;i++){ %>
+                              
+                                 <% if(String(ActiveProjectsData[i].inTouchCardDetails._id) === String(row._id) && ActiveProjectsData[i].confirmed){%> 
+                                     
+                                   <%confrimed = true%> 
+                                 <%}%>
+                             <% } %>
+                             <% if(confrimed== true){ %>
+                              <div class="btn w-50" style="background-color: rgb(19, 129, 56);color: white;">Confirmed</div>
+                          <%}else{ %>
+                              <div class="row">
+                                <% if(row.admin == adminName){%>
+                                  <div class="col-xl-3">
+                                    <form method="POST" action="/sidebar/intouch/<%= row._id %>">
+                                      <button target="_blank" href="/payment" style="background-color: #302b63; color: white;" type="submit"
+                                        class="btn btn-primary w-100" data-toggle="modal"> Confirm</button>
+                                    </form>
+                                  </div>
+                                <%}%>
+                                  <div class="col-xl-3">  
+                                     <!-- <% walletData.forEach((data)=>{ %>
+                                      <%  count += data.walletDetails %>
+                                      <% }) %> -->
+                                    <a href="/delete4/<%= row._id %>"> <button type="button"
+                                        style="background-color: #302b63; color: white;" type="button"
+                                        class="w-100 btn ">Cancel</button></a>
+                                  </div>
+                                  <br />
+                                </div>
+                            <% } %>
+                        </div>
+                      </div>
+                    </div>
+
+                    <%}%>
+                      <% }) %>
+      </div>    
+    </div>
+
+    <div id="ActiveProjects" class="tabcontent">
+      <h3>Active Projects</h3>
+      <br />
+      <div>
+       
+        <!-- ActiveProjectsData -->
+        <% ActiveProjectsData.forEach((data,index)=>{ %>
+          <% let received=false; %>
+          <% for(let i=0;i< walletData.length ;i++){ %>
+              <% if(String(walletData[i].cardID) === String(data._id) && walletData[i].received){%>  
+                <%received = true%> 
+              <%}%>
+          <% } %>
+          <% if(received == false ){ %>
+            <% if(data.inTouchCardDetails.role==='freelancer' ){ %>
+              <!-- <h3>Freelancers Approach</h3> -->
+              <br />
+              <div class="courses-container" style="justify-content:center">
+                <div class="course" style="width: 90%;">
+                  <div class="course-preview">
+                    <div class="d-flex flex-column " style="width: 150px;">
+                      <div style="align-items: center;">
+                        <div class="row" style="align-items: center;">
+                          <div class="col">
+                            <img src="https://internshala.com/cached_uploads/logo%2F5fdf9c93a5cbc1608490131.jpg"
+                              style="width: 100%; height:90%" />
+                          </div>
+                        </div><br />
+                        <div class="row">
+                          <div class="col" style="font-size: 20px;">
+                            <span><b> Project No-<%= index+1 %> </b></span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="course-info">
+                    <div class="row">
+                      <div class="col">
+                        <div class="dropdown" style="float: right;">
+                          <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                          </button>
+                          <div class="dropdown-menu">
+                            <a class="dropdown-item" href="contact.html">Cancel Project</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        <h2>
+                          <%= data.ProjectDetails.jobTitle%>
+                        </h2>
+                        <p>
+                          <%= data.ProjectDetails.workJD%>
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-xl-4">
+                      <ul>
+                        <li><a target="_blank" href="https://hirebookchat.netlify.app/">
+                            <img style="height: 50px; width: 50px;"
+                              src="data:image/png;base64,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">
+                            Chat here
+                          </a></li>
+                      </ul>
+                    </div>
+                    <div class="row Project-Details">
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-paper-plane"></i>START DATE</a>
+                          <br /><span>
+                            <%= data.ProjectDetails.startDate%>
+                          </span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-calendar-event"></i>DURATION</a>
+                          <br /><span>
+                            <%= data.ProjectDetails.duration%>
+                          </span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx  bx-rename"></i>STIPEND</a>
+                          <br /><span>₹<%= data.ProjectDetails.stipend%>/month</span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-time"></i>APPLY BY</a>
+                          <br /><span>
+                            <%= data.ProjectDetails.applyBy%>
+                          </span>
+                        </p>
+                      
+                      </div>
+                    
+                    </div>
+                    <div class="row" style="font-size: large;">
+                      <div class="col-xl-3">
+                        <span><b>Freelancer Name</b>: <%= data.inTouchCardDetails.admin%> </span>
+                      </div>
+                      <div class="col-xl-3">
+                        <span><b>Client Name</b>:<%= data.ProjectDetails.admin%></span>
+                      </div>
+                    
+                    </div><br />
+                      <div class="row">
+                        <div class="col-xl-3">
+                        <% if(data.ProjectDetails.admin === adminName){ %>
+                          <%(sum+=data.ProjectDetails.stipend) %>
+                          <!-- Button trigger modal -->
+                            <button type="button" style="background-color: #302b63; color: white;" class="btn btn-primary w-100" data-toggle="modal" data-target="#exampleModalCenter<%=data._id%>">
+                              Received
+                            </button>
+                          <!-- Modal -->
+                            <div class="modal fade" id="exampleModalCenter<%=data._id%>" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle<%=data._id%>" aria-hidden="true">
+                              <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle<%=data._id%>">Modal title</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                      <span aria-hidden="true">&times;</span>
+                                    </button>
+                                  </div>
+                                  <div class="modal-body">
+                                      <input type="number" min="1" max="5" placeholder="Rate your freelancer out of 5" required class="form-control">
+                                  </div>
+                                <form method="POST" action="/sidebar/ratings/<%=data._id%>" >
+                                  <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary">Save changes</button>
+                                  </div>
+                                </form>
+                                </div>
+                              
+                              </div>
+                            
+                            </div>
+                        <% }else{ %>
+                          <button type="button" style="background-color: #302b63; color: white;" type="button"class="w-100 btn ">Delivered</button>
+                          <% } %>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+              </div>  
+              <% }else{ %>
+                <!-- <h3>Clients Approach</h3> -->
+                <br />
+                <div class="courses-container" style="justify-content:center">
+                  <div class="course" style="width: 90%;">
+                    <div class="course-preview">
+                      <div class="d-flex flex-column " style="width: 150px;">
+                        <div style="align-items: center;">
+                          <div class="row" style="align-items: center;">
+                            <div class="col">
+                              <img src="https://internshala.com/cached_uploads/logo%2F5fdf9c93a5cbc1608490131.jpg"
+                                style="width: 100%; height:90%" />
+                            </div>
+                         
+                          </div><br />
+                          <div class="row">
+                            <div class="col" style="font-size: 20px;">
+                              <span><b>Project No- <%= index+1%> </b></span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="course-info">
+                      <div class="row">
+                        <div class="col">
+                          <div class="dropdown" style="float: right; color:#302b63;">
+                            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown"
+                              aria-haspopup="true" aria-expanded="false">
+                            </button>
+                            <div class="dropdown-menu">
+                              <a class="dropdown-item" href="contact.html">Cancel Project</a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <h2>
+                            <%= data.GigDetails.gigTitle %>
+                          </h2>
+                          <p>
+                            <%= data.GigDetails.describeGig %>
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <ul>
+                          <li><a target="_blank" href="https://hirebookchat.netlify.app/">
+                              <img style="height: 50px; width: 50px;"
+                                src="data:image/png;base64,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">
+                              Chat here
+                            </a></li>
+  
+                        </ul>
+  
+                      </div>
+                      <div class="row Project-Details">
+                        <div class="col">
+                          <span style="color: green;">Price:₹ <%= data.GigDetails.price %> </span>
+                        </div>
+                      </div><br />
+                      <div class="row" style="font-size: large;">
+                        <div class="col-xl-3">
+                          <span><b>Freelancer Name:</b>
+                            <%= data.GigDetails.admin %>
+                          </span>
+                        </div>
+                        <div class="col-xl-3">
+                          <span><b>Client Name : </b>
+                            <%= data.inTouchCardDetails.admin %>
+                          </span>
+                        </div>
+                      </div><br />
+                      <div class="row">
+                        <div class="col-xl-3">
+                          <% if(data.inTouchCardDetails.admin===adminName) {%>
+                            <%(sum+=data.GigDetails.price) %>
+                              <!-- Button trigger modal -->
+                              <button type="button" style="background-color: #302b63; color: white;"
+                                class="btn btn-primary w-100" data-toggle="modal"
+                                data-target="#exampleModalCenter<%=data._id%>">
+                                Received
+                              </button>
+  
+                              <!-- Modal -->
+                              <form action="/sidebar/ratings/<%=data._id%>" method="POST">
+                                <div class="modal fade" id="exampleModalCenter<%=data._id%>" tabindex="-1" role="dialog"
+                                  aria-labelledby="exampleModalCenterTitle<%=data._id%>" aria-hidden="true">
+                                  <div class="modal-dialog modal-dialog-centered" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle<%=data._id%>">Modal title</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <span aria-hidden="true">&times;</span>
+                                        </button>
+                                      </div>
+                                      <div class="modal-body">
+                                        <input type="number" name="rating" min="1" max="5"
+                                          placeholder="Rate your freelancer out of 5" required class="form-control">
+                                      </div>
+                                      <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                          data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </form>
+                              <%}else{ %>
+                                <button type="button" style="background-color: #302b63; color: white;" type="button"
+                                  class="w-100 btn "> Delivered</button>
+                                <% }%>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <% } %>
+          <% } %>
+          
+            <% }) %>
+      </div>
+    </div>
+    <div id="PostedProjects" class="tabcontent">
+      <h3>Posted Projects</h3>
+      <% posted.forEach((row,index)=>{ %>
+        <div class="courses-container" style="justify-content:center">
+          <div class="course" style="width: 90%;">
+            <div class="course-preview">
+              <div class="d-flex flex-column " style="width: 150px;">
+                <div style="align-items: center;">
+                  <div class="row" style="align-items: center;">
+                    <div class="col">
+                      <img src="/uploads/<%= row.myimage %>" style="width: 100%; height:70%" />
+                    </div>
+                  </div><br />
+
+                  <div class="row">
+                    <div class="col" style="font-size: 20px;">
+                      <span><b>Project-<%= index+1%> </b></span>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col">
+                      <span>
+                        <%= row.companyName%>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <span>
+                        <%= row.positionAvailable %>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="course-info">
+              <div class="row">
+                <div class="col">
+                  <h2>Work Description</h2>
+                  <p>
+                    <%= row.workJD %>
+                  </p>
+                </div>
+              </div>
+              <div class="row Project-Details">
+                <div class="col">
+                  <p><a href="#" class="startDate"><i class="bx bx-paper-plane"></i>START DATE</a>
+                    <br /><span>
+                      <%= row.startDate %>
+                    </span>
+                  </p>
+                </div>
+                <div class="col">
+                  <p><a href="#" class="startDate"><i class="bx bx-calendar-event"></i>DURATION</a>
+                    <br /><span>
+                      <%= row.duration %> months
+                    </span>
+                  </p>
+                </div>
+                <div class="col">
+                  <p><a href="#" class="startDate"><i class="bx  bx-rename"></i>STIPEND</a>
+                    <br /><span>₹<%= row.stipend%>/month</span>
+                  </p>
+                </div>
+                <div class="col">
+                  <p><a href="#" class="startDate"><i class="bx bx-time"></i>APPLY BY</a>
+                    <br /><span>
+                      <%= row.applyBy%>
+                    </span>
+                  </p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xl-3">
+                  <a href="/edit/<%= row._id %>"> <button type="button" style="background-color: #302b63; color: white;"
+                      type="button" class="w-100 btn ">Edit</button></a>
+                </div>
+                <div class="col-xl-3">
+                  <a href="/delete/<%= row._id %>"> <button type="button"
+                      style="background-color: #302b63; color: white;" type="button"
+                      class="w-100 btn ">Delete</button></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <% }) %>
+    
+      </div>
+    <div id="Gigs" class="tabcontent">
+      <h3>Gigs</h3>
+      <div class="row">
+        <% gigs.forEach((row,index)=>{ %>
+          <div class="col-4">
+            <div class="card" id="cardclick" style="width: 300px;background: rgba( 255, 255, 255, 0.05 );
+          box-shadow: 0 2px 1px 0 rgba( 31, 38, 135, 0.37 );
+          backdrop-filter: blur( 0.0px );
+          -webkit-backdrop-filter: blur( 20.0px );
+          border-radius: 10px;
+          border: 1px solid rgba( 255, 255, 255, 0.18 );">
+              <h5 class="card-header" style="color: #241644; background-color:#EDEAF6">Gig-<%= index+1%>
+                  <div class="dropdown" style="float: right;">
+                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false" style="background-color: #241644;"></button>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="/edit2/<%= row._id %>">Edit Gig</a>
+                      <a class="dropdown-item" href="/delete2/<%= row._id %>">Delete Gig</a>
+                    </div>
+                  </div>
+              </h5>
+              <div class=" card-body">
+                <div class="row">
+                  <div class="col">
+
+                    <div class="row">
+                      <div class="col">
+                        <img src="/uploads/<%= row.image4 %>" style="width:100%; object-fit:cover;">
+
+                      </div>
+                    </div>
+                    <br />
+
+                    <div class="row">
+                      <div class="col">
+                        <h5 class="card-title"><b>
+                            <%= row.gigTitle %>
+                          </b></h5>
+                        <h5 class="card-title" style="float: right; color:#6DBF73;">
+                          Rs. <%= row.price %>
+                        </h5>
+                        <h5 class="card-title" style="float: left; font-size:medium;">
+                          <%= row.describeGig %>
+                        </h5>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br />
+          </div>
+          <% }) %>
+      </div>
+    </div>
+    <div id="Wallet" class="tabcontent">
+      <h3>Wallet</h3>
+      <main id="main" class="container" style="height:50vh;margin-top:20px">
+
+        <button type="button" class="btn btn-primary" style="background-color: #302b63; color: white;"
+          data-toggle="modal" data-target="#exampleModal">
+          Edit Bank Details
+        </button>
+
+        <!-- Modal -->
+        <form action="/sidebar/bankDetails" method="POST">
+          <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Edit Bank Details </h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <input type="text" class="form-control" id="don" name="don" aria-describedby="don"
+                    placeholder="USER NAME" required><br />
+                  <input type="text" class="form-control" id="accNum" name="accNum" aria-describedby="accNum"
+                    placeholder="ACCOUNT NUMBER" required><br />
+                  <input type="text" class="form-control" id="ifscCode" name="ifscCode" aria-describedby="ifscCode"
+                    placeholder="IFSC CODE" required><br />
+                  <input type="text" class="form-control" id="upiID" name="upiID" aria-describedby="upi id"
+                    placeholder="UPI ID" required><br />
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="submit" style="background-color: #302b63; color: white;" class="btn btn-primary">Save
+                    changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <img src="img/freelancer.png" class="rounded mx-auto d-block">
+        <div class="row">
+          <p style="font-size:30px;">WITHDRAWL AMOUNT:<span style="color: green;"> ₹<%= count %></span></p>
+        </div>
+        <div class="row">
+          <p style="font-size:30px;">DEPOSIT AMOUNT:<span style="color: green;"> ₹<%=sum%></span></p>
+        </div>
+        <br />
+
+        <br />
+        <div class="row">
+          <div class="col">
+
+            <button style="background-color: #302b63; color: white;" type="button" class="btn btn-primary w-100"
+              data-toggle="modal" data-target="#exampleModalCenter">
+              Withdraw
+            </button>
+
+            <!-- Modal -->
+            <form action="/sidebar/withdraw" method="POST">
+              <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+                aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLongTitle">Withdraw Amount</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <input type="number" name="amount" class="form-control" id="withdraw_amount"
+                        aria-describedby="withdraw_amount" placeholder="Enter amount" required><br />
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      <button type="submit" class="btn btn-primary" onclick="alertfunc()">Submit</button>
+                      <script>
+                        function alertfunc() {
+                          alert("Amount will be transferred in 2 hours.")
+                        }
+                      </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="col">
+            <a href="/payment" target="_blank"> <button type="button" style="background-color: #302b63; color: white;"
+                type="button" class="w-100 btn ">Deposit</button></a>
+
+          </div>
+        </div>
+      </main>
+   
+    </div>
+    <div id="LogOut" class="tabcontent">
+
+    </div>
+    <!-- End demo content -->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"></script>
+    <script src="js/sidebar.js"></script>
+    <script>
+      function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+
+      // Get the element with id="defaultOpen" and click on it
+      document.getElementById("defaultOpen").click();
+    </script>
+</body>
+
+</html>

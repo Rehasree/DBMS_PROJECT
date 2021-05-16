@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>Paytm</title>
+       <!-- Favicons -->
+       <link
+       href="img/favicon.png"
+       rel="icon">
+   
+       <!-- Google Fonts -->
+       <link
+           href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+           rel="stylesheet">
+   
+       <!-- Vendor CSS Files -->
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+       <!-- Font Awesome Icon Library -->
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+       <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+       <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+       <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+       <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+       <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+       <link href="vendor/aos/aos.css" rel="stylesheet">
+   
+       <script>
+           function readURL(input) {
+               if (input.files && input.files[0]) {
+                   var reader = new FileReader();
+   
+                   reader.onload = function (e) {
+                       $('#blah')
+                           .attr('src', e.target.result);
+                   };
+   
+                   reader.readAsDataURL(input.files[0]);
+               }
+           }
+       </script>
+           <%- include("./partials/navbar.ejs") %>
+  </head>
+  <body style="background-color:#f5f3ef" >
+    <div class="row my-5">
+      <div class="col-md-4 offset-md-4">
+        <div class="card" style="margin-top: 200px;">
+          <div class="card-body">
+            <form class="" action="/payment" method="post">
+              <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="floatingInput" name="name" placeholder="Reha..." value="" required>
+                <label for="floatingInput">Name: </label>
+              </div>
+              <div class="form-floating mb-3">
+                <input type="email" class="form-control" name="email"  id="floatingEmail" placeholder="Reha@gmail.com" value="" required>
+                <label for="floatingEmail">E-mail: </label>
+              </div>
+              <div class="form-floating mb-3">
+                <input type="tel" class="form-control" name="phone"  id="floatingPhone" placeholder="8341655595" value="" required>
+                <label for="floatingPhone">Phone:</label>
+              </div>
+              <div class="form-floating mb-3">
+                <input type="number" class="form-control" name="amount"  id="floatingAmount" placeholder="2000" value="" required>
+                <label for="floatingAmount">Amount</label>
+              </div>
+    
+              <div class="form-group">
+                <button class="btn form-control btn-primary" style="color: white;background-color: navy;">Pay Now</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+      <!-- ======= Footer ======= -->
+  <footer id="footer" class="fixed-bottom">
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>HireBook</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          Designed by <a href="/team">Team @HireBook</a>
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+  </body>
+</html>

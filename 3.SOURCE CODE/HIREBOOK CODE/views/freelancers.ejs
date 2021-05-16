@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>HireBook</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link
+  href="img/favicon.png"
+  rel="icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <!-- Font Awesome Icon Library -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="vendor/aos/aos.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <style>
+    .tab-pane {
+      min-height: 100vh;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+      <img src="img/logo2.png" alt="" class="img-fluid"  >
+      <h1 class="logo me-auto title"><a href="/index">HireBook<br /><span style="font-size: 15px;" class="typed"
+            data-typed-items="By the Indians,For the Indians"></span></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="/Homepage2" style="font-family:poppins ; font-weight: 500; font-size: medium;">Home</a></li>
+          <li class="active"><a href="/freelancers"
+              style="font-family:poppins ; font-weight: 500;font-size: medium;">Freelancers</a></li>
+          <li><a href="/Projects" style="font-family:poppins ; font-weight: 500;font-size: medium;">Projects</a>
+          </li>
+          <li><a href="/contact" style="font-family:poppins ; font-weight: 500;font-size: medium;">Contact</a></li>
+          <li><a href="/ProjectEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Post a
+              Project</a></li>
+          <li><a href="/GigEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Create a gig</a>
+          </li>
+          <li><a href="/help" style="font-family:poppins ; font-weight: 500;font-size: medium;">Help</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+      <!-- Example single danger button -->
+      <a href="/sidebar" class="get-started-btn">Profile</a>
+     
+      <!-- <a href="Profile.html"> <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar"></a>  -->
+    </div>
+  </header><!-- End Header -->
+  <!-- End Header -->
+  <main id="main">
+    <section>
+      <br />
+      <br />
+      </div>
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+        <div class="container">
+
+          <div class="section-title" data-aos="fade-up">
+            <h2>Get matched in minutes with proven, remote freelancers.</h2>
+            <p>HIRE PEOPLE FROM DIFFERENT SECTORS</p>
+            <div></div>
+
+          </div>
+        </div>
+        <div class="container">
+          <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" id="dev-tab" data-toggle="tab" href="#Development" role="tab"
+                aria-controls="Development" aria-selected="true">Development and IT</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="design-tab" data-toggle="tab" href="#design" role="tab" aria-controls="design"
+                aria-selected="false">Design and Creative</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="writing-tab" data-toggle="tab" href="#writing" role="tab" aria-controls="writing"
+                aria-selected="false">Writing and Editing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="Admin-tab" data-toggle="tab" href="#admin" role="tab" aria-controls="admin"
+                aria-selected="false">Admin & Customer Support</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="Finance-tab" data-toggle="tab" href="#finance" role="tab" aria-controls="finance"
+                aria-selected="false">Finance & Accounting</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="Sales-tab" data-toggle="tab" href="#sales" role="tab" aria-controls="sales"
+                aria-selected="false">Sales and Marketing</a>
+            </li>
+          </ul>
+          <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="Development" role="tabpanel" aria-labelledby="dev-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Development and IT' ){ %>
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" class="img-fluid"
+                                alt="..."></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0] %>
+                                    </p>
+                                  </div>
+                                  <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+
+                  </div>
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+            <div class="tab-pane fade" id="design" role="tabpanel" aria-labelledby="design-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Design and Creative' ){ %>
+
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" class="img-fluid"
+                                alt="..."></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0]%>
+                                    </p>
+                                  </div>
+                                  <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+                  </div>
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+            <div class="tab-pane fade" id="writing" role="tabpanel" aria-labelledby="writing-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Writing and Editing' ){ %>
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" class="img-fluid"
+                                alt="..."></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0]%>
+                                    </p>
+                                  </div>
+                                  <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+                  </div>
+
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+            <div class="tab-pane fade" id="admin" role="tabpanel" aria-labelledby="Admin-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Admin & Customer Support' ){ %>
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" class="img-fluid"
+                                alt="..."></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0]%>
+                                    </p>
+                                  </div>
+                                  <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+                  </div>
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+            <div class="tab-pane fade" id="finance" role="tabpanel" aria-labelledby="Finance-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Finance & Accounting' ){ %>
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" class="img-fluid"
+                                alt="..."></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0]%>
+                                    </p>
+                                  </div>
+                                  <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+                  </div>
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+            <div class="tab-pane fade" id="sales" role="tabpanel" aria-labelledby="Sales-tab">
+              <section id="popular-courses" class="courses">
+                <div class="container" data-aos="fade-up">
+                  <div class="row" data-aos="zoom-in" data-aos-delay="100">
+                    <% gigData.forEach(gig=>{ %>
+                      <% if(gig.gigCategory==='Sales and Marketing' ){ %>
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" style="margin-bottom: 10px;">
+                          <div class="course-item">
+                            <a href="/shortlist/<%= gig._id %>"> <img src="/uploads/<%= gig.image4 %>" style="height: 40px;width: 40px;" class="img-fluid" alt="thumbnail"></a>
+                            <div class="course-content">
+                              <div class="d-flex justify-content-between align-items-center mb-3">
+                                <h4>
+                                  <%=gig.gigCategory%>
+                                </h4>
+                                <p class="price"><span style="color: gray;font-weight: 100;">Starting at :</span>
+                                  <%= gig.price%>/-
+                                </p>
+                              </div>
+
+                              <h3>
+                                <%=gig.gigTitle%>
+                              </h3>
+                              <p>
+                                <%= gig.describeGig%>
+                              </p>
+                              <div class="trainer d-flex justify-content-between align-items-center">
+                                <div class="trainer-profile d-flex align-items-center">
+                                  <div
+                                    style="height: 50px;width: 50px;border-radius: 50%; background-color: #2A265F; color: white;">
+                                    <p
+                                      style="color: whitesmoke; margin-top: 4px; margin-left: 13px; font-size: 25px; font-weight: bold;">
+                                      <%= gig.admin[0]%>
+                                    </p>
+                                  </div> <span>
+                                    <%= gig.admin%>
+                                  </span>
+                                </div>
+                                <!-- <div>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star checked"></span>
+                                  <span class="fa fa-star "></span>
+                                  <span class="fa fa-star "></span>
+                                </div> -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <%}%>
+                          <!-- End Course Item-->
+                          <% }) %>
+                  </div>
+
+                </div>
+              </section><!-- End Popular Courses Section -->
+            </div>
+          </div>
+        </div>
+      </section><!-- End Services Section -->
+    </section>
+  </main>
+  <!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" style="margin-top: 10px;">
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>HireBook</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          Designed by <a href="/team">Team @HireBook</a>
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+  <div id="preloader"></div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <!-- Vendor JS Files -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="vendor/php-email-form/validate.js"></script>
+  <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="vendor/counterup/counterup.min.js"></script>
+  <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="vendor/aos/aos.js"></script>
+  <script src="vendor/typed.js/typed.min.js"></script>
+  <!-- Main JS File -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

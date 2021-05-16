@@ -1,0 +1,71 @@
+body {
+    background-color: #12172b;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .card {
+    padding: 10px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 18px;
+    background: rgba(255,255,255,0.1);
+    box-shadow: 10px 10px 20px -10px rgba(255, 255, 255, 0.2);
+    border-right: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    backdrop-filter: blur(10px);
+    transition: .5s ease;
+    flex-basis: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 65vh;
+  }
+  
+  .card .profile-img {
+    height: 260px;
+    width: 260px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: 400ms;
+  }
+  
+  .card:hover .profile-img {
+    filter: grayscale(0);
+  }
+  
+  .card h5 {
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: #ccc;
+  }
+  .heading {
+    font-size: 60px;
+    color: white;
+  }
+
+  .card .sci{
+      position: absolute;
+     bottom: 50px;
+      display: flex;
+    
+  }
+
+  .card .sci li{
+    list-style: none;
+    margin: 0 10px;
+    transform: translateY(40px);
+    transition: 0.5s;
+    opacity: 0;
+    transition-delay: calc(0.1s * var(--i));
+}
+.card:hover .sci li{
+    transform: translateY(10px);
+    opacity: 1;
+}
+
+.card .sci li a{
+    color: #fff;
+    font-size: 30px;
+}

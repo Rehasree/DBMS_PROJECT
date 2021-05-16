@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Hirebook</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link
+  href="img/favicon.png"
+  rel="icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <!-- Font Awesome Icon Library -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="vendor/aos/aos.css" rel="stylesheet">
+
+  <link href="/css/shortlist.css" rel="stylesheet">
+  <!-- <style>
+
+  <link href="/css/shortlist.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <style>
+>>>>>>> 46acbbe1f3bb8f6bf347d070b63616a8d76748e2
+    @media screen and (min-width: 701px) and (max-width:3000px) {
+      .avatar {
+        margin-left: 10px;
+        vertical-align: middle;
+        margin-bottom: 20px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+      }
+
+      .avatar2 {
+        vertical-align: middle;
+
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+      }
+    }
+
+    @media screen and (min-width: 0px) and (max-width:700px) {
+      .avatar {
+        display: none;
+      }
+    }
+    /* Container */
+.course {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    max-width: 100%;
+    margin: 20px;
+    overflow: hidden;
+    width: 700px;
+  }
+  
+  .course h6 {
+    opacity: 0.6;
+    margin: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  .course h2 {
+    letter-spacing: 1px;
+    margin: 10px 0;
+  }
+  
+  .course-preview {
+    background-color: #2A265F;
+    color: #fff;
+    padding: 20px;
+    max-width: 400px;
+  }
+  
+  .course-preview a {
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+    opacity: 0.6;
+    margin-top: 30px;
+    text-decoration: none;
+  }
+  
+  .course-info {
+    padding: 30px;
+    position: relative;
+    width: 100%;
+  }
+  .skills {
+    
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    border: 1px solid #f5f5f5;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 7px;
+  }
+  
+  </style> -->
+  <%- include("./partials/navbar.ejs") %>
+</head>
+
+<body>
+ 
+  <!-- ======= Header ======= -->
+
+  <!-- End Header -->
+  <div class="container" style="margin-top: 150px;">
+    <div class="courses-container" style="justify-content:center">
+      <div class="course" style="width: 80%;">
+        <div class="course-preview">
+          <div class="d-flex flex-column align-items-center text-center">
+            <div class="mt-12">
+              <img src="/uploads/<%=record4.image4 %>" style="height:150px;width: 150px; border-radius:50%;"
+                class="mr-3 rounded-circle img-thumbnail shadow-sm">
+            </div>
+            <div><br />
+              <h4>
+                <%= record4.admin %>
+              </h4>
+              <p style="color: aliceblue;">
+                <%= record4.gigTitle %>
+              </p>
+              <p style="color: aliceblue;">Uttar Pradesh, India</p>
+              <div class="skills">
+                <p style="color: aliceblue; font-weight:bold;font-size:15px;">Skills</p>
+                <ul>
+                  <li>UI / UX , Front End Development, HTML, CSS, JavaScript, React , Backend, C++, Jquery</li>
+
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="course-info">
+          <div class="row">
+            <div class="col">
+              <h2>About Gig</h2>
+              <p>
+                <%= record4.describeGig %>
+              </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                  <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                      fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                      class="feather feather-globe mr-2 icon-inline">
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <line x1="2" y1="12" x2="22" y2="12"></line>
+                      <path
+                        d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                      </path>
+                    </svg>Portfolio Link</h6>
+                  <span class="text-secondary">
+                    <%= record4.image1 %>
+                  </span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                  <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                      fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                      class="feather feather-github mr-2 icon-inline">
+                      <path
+                        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+                      </path>
+                    </svg>Github</h6>
+                  <span class="text-secondary">
+                    <%= record4.image2 %>
+                  </span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                  <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                      fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                      class="feather feather-globe mr-2 icon-inline">
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <line x1="2" y1="12" x2="22" y2="12"></line>
+                      <path
+                        d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                      </path>
+                    </svg>Link to Samples</h6>
+                  <span class="text-secondary">
+                    <%= record4.image3 %>
+                  </span>
+                </li>
+                <li class="list-group-item ">
+                  <div class="row">
+                    <div class="col">
+                      <h6>Average Ratings</h6>
+                    </div>
+                    <div class="col-4">
+                      <span class="fa fa-star checked"></span>
+                      <span class="fa fa-star checked"></span>
+                      <span class="fa fa-star checked"></span>
+                      <span class="fa fa-star checked"></span>
+                      <span class="fa fa-star checked"></span>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div><br />
+          <br />
+          <div class="row">
+           
+            <div class="col-xl-3">
+             
+              <% if( intouchdetails.length==0 ){ %>
+                  <!-- Button trigger modal -->
+                <button type="submit" class="btn btn-primary" style="background-color: #302b63; color: white;"
+                data-toggle="modal" data-target="#exampleModalCenter">
+                Hire Me
+              </button>
+             <% }else{ %>
+              <button type="button" class="btn" style="background-color:#302b63 ; color: white;padding: 10px; margin: 10px; border-radius: 27px;width: 150px;">
+                In contact
+            </button>
+              <%} %>
+              
+
+              <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+                aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLongTitle">Chat Details</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <form action="/shortlist/<%= id %>" method="POST">
+                      <div class="modal-body">
+                        <!-- <input type="text" name="username" class="form-control" id="exampleInputusername1"
+                          aria-describedby="usernameHelp" placeholder="Enter USER NAME"> -->
+                        <br />
+                        <input type="text" name="userName" class="form-control" id="exampleInputuserName1"
+                          aria-describedby="userNameHelp" placeholder="ENTER USER NAME" required>
+                      </div>
+
+                      <div class="modal-footer">
+                        <input type="submit" class="btn btn-secondary" data-dismiss="modal" value="Close">
+                        <input type="submit" class="btn" style="background-color: #302b63; color: white;" value="Save
+                        changes">
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="fixed-bottom">
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>HireBook</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          Designed by <a href="/team">Team @HireBook</a>
+        </div>
+      </div>
+    
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+  <div id="preloader"></div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <!-- Vendor JS Files -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="vendor/php-email-form/validate.js"></script>
+  <script src="vendor/typed.js/typed.min.js"></script>
+  <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="vendor/counterup/counterup.min.js"></script>
+  <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="vendor/aos/aos.js"></script>
+
+  <!-- Main JS File -->
+  <script src="js/main.js"></script>
+  <script>$('.carousel').carousel({
+      interval: 2000
+    })</script>
+
+</body>
+
+</html>

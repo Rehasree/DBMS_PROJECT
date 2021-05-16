@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>HireBook</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link
+    href="img/favicon.png"
+    rel="icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- Font Awesome Icon Library -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="vendor/aos/aos.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #fff;
+        }
+
+        @media screen and (min-width: 701px) and (max-width:3000px) {
+            .avatar {
+                margin-left: 10px;
+                vertical-align: middle;
+                margin-bottom: 20px;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+            }
+
+            .avatar2 {
+                vertical-align: middle;
+
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+            }
+        }
+
+        @media screen and (min-width: 0px) and (max-width:700px) {
+            .avatar {
+                display: none;
+            }
+        }
+
+        .row .col-3 img {
+            margin-left: 50px;
+            height: 200px;
+            width: 200px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+
+        }
+
+        input[type=file] {
+            color: white;
+            border-radius: 5px;
+            background: #302B63;
+        }
+    </style>
+    <script>
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#blah')
+                        .attr('src', e.target.result);
+                };
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <main id="main">
+        <section>
+            <br />
+            <br>
+            <div class="container">
+                <form action="/update" method="POST" enctype="multipart/form-data">
+                    <input type="hidden" name="id" value="<%= records._id %>" required>
+                    <div class="card">
+                        <br />
+                        <div class="row">
+                            <div class="col-1"></div>
+                            <div class="col-10">
+                                <div class="row">
+                                    <h5><b>Add Project Details</b></h5>
+                                    <br /><br />
+                                    <div class="col">
+                                        <input  required type="text" name="companyName" value="<%= records.companyName %>"
+                                            class="form-control" placeholder="Company Name">
+                                    </div>
+                                    <div class="col">
+                                        <select id="inputState" class="form-control">
+                                            <option selected>Position Availaible</option>
+                                            <option>Graphic Designer</option>
+                                            <option>Web Designer</option>
+                                            <option>Web Developer</option>
+                                            <option>Content Writer</option>
+                                            <option>SEO Expert</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br />
+                                <div class="row">
+                                    <div class="col">
+                                        <label>Start Date</label>
+                                        <input type="date" name="startDate" value="<%= records.startDate %>"
+                                            class="form-control" required>
+                                    </div>
+                                    <div class="col">
+                                        <label>Apply by</label>
+                                        <input type="date" name="applyBy" value="<%= records.applyBy %>"
+                                            class="form-control" required>
+                                    </div>
+                                </div>
+                                <br />
+                                <div class="row">
+                                    <div class="col">
+                                        <select id="inputState" class="form-control" required>
+                                            <option selected>Type of Project</option>
+                                            <option>Long-term</option>
+                                            <option>Short-Term</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <input type="number" min="1" name="duration" value="<%= records.duration %>"
+                                            class="form-control" placeholder="Duration" required>
+                                    </div>
+                                    <div class="col">
+                                        <input type="number" name="stipend" value="<%= records.stipend %>"
+                                            class="form-control" placeholder="Stipend" required>
+                                    </div>
+
+                                </div>
+                                <br />
+                                <div class="row">
+                                    <div class="col">
+                                        <select id="inputState" class="form-control" required>
+                                            <option selected>Work location</option>
+                                            <option>work from home</option>
+                                            <option>Company location</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <input type="text" name="skills" value="<%= records.skills %>"
+                                            class="form-control" placeholder="Skills required*" required>
+                                    </div>
+                                </div>
+                                <br />
+
+                                <div class="row">
+
+                                    <div class="form-group col">
+                                        <input type="number" name="openings" value="<%= records.openings %>"
+                                            class="form-control" id="inputZip" placeholder="no. of openings" required>
+                                    </div>
+                                    <div class="form-group col">
+                                        <input type="url" name="weblink" value="<%= records.weblink %>"
+                                            class="form-control" id="inputZip" placeholder="Website link" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col-12">
+                                        <input type="text" name="jobTitle" value="<%= records.jobTitle %>"
+                                            class="form-control" id="inputZip" placeholder="Job Title" required>
+                                    </div>
+                                    <div class="form-group col-qw">
+                                        <input type="text" name="workJD" value="<%= records.workJD %>"
+                                            class="form-control" id="inputZip" placeholder="work Description" required>
+                                    </div>
+                                </div>
+                               
+                                <div class=" row">
+                                    <div class="col form-group">
+                                        <br /><br /><input style="background-color: #302B63; color: white;"
+                                            type="submit" class="w-100 btn " value="Submit" /><br /><br /><br />
+                                    </div>
+                                    <div class="col form-group">
+                                        <br /><br /><input type="submit" style="background-color: #302B63; color:white"
+                                            class="w-100 btn" value="Cancel" /><br /><br /><br />
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            </form>
+            </div>
+        </section>
+    </main>
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container d-md-flex py-4">
+            <div class="me-md-auto text-center text-md-start">
+                <div class="copyright">
+                    &copy; Copyright <strong><span>HireBook</span></strong>. All Rights Reserved
+                </div>
+                <div class="credits">
+                    Designed by <a href="/team">Team @HireBook</a>
+                </div>
+            </div>
+            <div class="social-links text-center text-md-right pt-3 pt-md-0">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+    <div id="preloader"></div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <!-- Vendor JS Files -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="vendor/php-email-form/validate.js"></script>
+    <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="vendor/counterup/counterup.min.js"></script>
+    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="vendor/aos/aos.js"></script>
+    <script src="vendor/typed.js/typed.min.js"></script>
+    <!-- Main JS File -->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,108 @@
+body{
+    background-color: #fff;
+}
+@media screen and (min-width:800px) and (max-width:4000px){
+    .Project_view_all{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+.title{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+   font-size: 30px;
+   font-weight: bolder;
+}
+.title i{
+    margin-right: 10px;
+ }
+.row{
+    margin:15px;
+}
+.col-8 p{
+    font-size: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.col-8 p span{
+    font-size: 20px;
+    color: grey;
+}
+.col-4 img{
+    height: 100px;
+    width: 100px;
+    right: 0px;
+}
+.col-8 .work_From_home a i{
+    font-size: 21px;
+    margin-right: 3px;
+}
+.col-8 .work_From_home p{
+    font-size: 20px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.col-8 .Project-Details p a{
+    font-size: 18px;
+    font-weight: 700;
+   text-decoration: none;
+   color: gray;
+}
+.col .startDate  i{
+font-size: 20px;
+margin-right: 2px;
+}
+.Project-Details .col p span{
+    font-size: 20px;
+    margin-left: 5px; 
+    color: black; 
+}
+.col-8 .link a{
+    font-size: 20px;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+.col-12 .card{
+    margin-bottom: 15px;
+}
+
+
+.text-center button[type="submit"] {
+    background: #302b63;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+  }
+  
+  .text-center button[type="submit"]:hover{
+  
+  } 
+
+  .text-center button[type="submit"]:after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 0%;
+    height: 100%;
+    background-color: rgba(255,255,255,0.4);
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+   
+}
+
+.text-center button[type="submit"]:hover:after {
+    width: 120%;
+    background-color: rgba(255,255,255,0);
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}

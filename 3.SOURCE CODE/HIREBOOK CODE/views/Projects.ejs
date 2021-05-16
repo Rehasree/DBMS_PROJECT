@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>HireBook</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <!-- Favicons -->
+  <link
+  href="img/favicon.png"
+  rel="icon">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <!-- Font Awesome Icon Library -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="vendor/aos/aos.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/Projects.css" rel="stylesheet">
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+
+<body>
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+      <img src="img/logo2.png" alt="" class="img-fluid"  >
+      <h1 class="logo me-auto title"><a href="#"> HireBook<br /><span style="font-size: 15px;" class="typed"
+            data-typed-items="By the Indians,For the Indians"></span></a></h1>
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="/Homepage2" style="font-family:poppins ; font-weight: 500; font-size: medium;">Home</a></li>
+          <li><a href="/freelancers" style="font-family:poppins ; font-weight: 500;font-size: medium;">Freelancers</a>
+          </li>
+          <li class="active"><a href="Projects"
+              style="font-family:poppins ; font-weight: 500;font-size: medium;">Projects</a></li>
+          <li><a href="/contact" style="font-family:poppins ; font-weight: 500;font-size: medium;">Contact</a></li>
+          <li><a href="/ProjectEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Post a
+              Project</a></li>
+          <li><a href="/GigEdit" style="font-family:poppins ; font-weight: 500;font-size: medium;">Create a gig</a></li>
+          <li><a href="/help" style="font-family:poppins ; font-weight: 500;font-size: medium;">Help</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+      <!-- Example single danger button -->
+      <a href="/sidebar" class="get-started-btn">Profile</a>
+
+      <!-- <a href="Profile.html"> <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar"></a>  -->
+    </div>
+
+  </header><!-- End Header -->
+  <%- include("./partials/flash") %>
+    <style>
+      #moreDetails {
+        display: none;
+      }
+
+      @media screen and (min-width:700px) and (max-width:7000px) {
+        .Projects {
+          margin-left: 120px;
+          margin-right: 120px;
+        }
+      }
+    </style>
+
+    <main id="main">
+      <section class="Projects">
+        <br /><br />
+        <div class="row" style="margin-left: 150px;margin-right: 150px;" >
+          <!-- filters section begins -->
+          <!-- <div class="col-xl-3 col-sm-12">
+            <br>
+            <!-- <div class="card">
+              <div class="title text-center">
+                <p><i class="bx bx-sort-down"></i>Filters</p>
+                <hr />
+              </div>
+              <form action="/Projects/filters" method="POST">
+                <div class="row">
+                  <div class="form-group col-12">
+                    <label for="Date"><b>Starting date:</b></label><br />
+                    <input class="form-control" name="date" type="date" placeholder="Choose Date" required>
+                  </div>
+                  <div class="form-group col-12">
+                    <label for="Amount"><b>Stipend</b></label><br />
+                    <input class="form-control" name="amount" type="number" placeholder="Enter Amount" required>
+                  </div>
+                  <div class="form-group col-12">
+                    <label for="Duration"><b>Max Duration</b></label><br />
+                    <select id="inputState" name="duration" class="form-control">
+                      <option selected>Select Duration</option>
+                      <option>1 month</option>
+                      <option>2 months</option>
+                      <option>3 months</option>
+                      <option>4 month</option>
+                      <option>5 months</option>
+                      <option>6 months</option>
+                    </select>
+                  </div>
+                  <div class="form-group col-12">
+                    <label for="Duration"><b>Position</b></label><br />
+                    <select id="inputState" name="position" class="form-control" required>
+                      <option selected>Position Availaible</option>
+                      <option>Graphic Designer</option>
+                      <option>Web Designer</option>
+                      <option>Web Developer</option>
+                      <option>Content Writer</option>
+                      <option>SEO Expert</option>
+                    </select>
+                  </div>
+                  <div class="form-group col-12">
+                    <div class="form-check">
+                      <input class="form-check-input" name="long" type="checkbox" value="Long-term Projects"
+                        id="flexCheckDefault">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        <b>Long-term Projects</b>
+                      </label>
+                    </div>
+                  </div>
+                  <div class="form-group col-12">
+                    <div class="form-check">
+                      <input class="form-check-input" name="short" type="checkbox" value="Short-term Projects"
+                        id="flexCheckDefault">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        <b>Short-term Projects</b>
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="form-group col-12">
+                    <br /><input style="background-color: #414A6B; color: white;" type="submit" class="w-100 btn "
+                      value="Submit" /><br />
+                  </div>
+
+                </div>
+              </form>
+            </div> -->
+          <!-- </div> -->
+          <!-- filters section ends -->
+          <div class="col-xl-12 col-sm-12" >
+            <div class="row" style="padding: 20px;">
+              <% projects.forEach((row,index)=>{ %>
+                <div class="col-12">
+                  <div class="card">
+                    <div class="row">
+                      <div class="col-8">
+                        <p>
+                          <span style="font-size: 30px;"><b>
+                              <p style="text-transform:uppercase;">
+                                <%= row.jobTitle %>
+                              </p>
+                            </b></span>
+                        </p>
+
+                        <p style="font-size:25px;color:grey">
+                          <a href="<%= row.weblink %>" style="text-transform:uppercase;font-size: 20px;">
+                            <%= row.companyName %>(<i style="font-size:24px" class="bx bxl-periscope">
+                                <%=row.companyLocation %>
+                              </i>)
+                          </a>
+                          <br />
+                        </p>
+                        <div class="work_From_home">
+                          <p><a href="" class="home"><i class="bx bx-home-alt">
+                                <%= row.workLocation %>
+                              </i></a></p>
+                        </div>
+                      </div>
+
+                    </div>
+
+                    <div class="row Project-Details">
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-paper-plane"></i>START DATE</a>
+                          <br /><span>
+                            <%= row.startDate %>
+                          </span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-calendar-event"></i>DURATION</a>
+                          <br /><span>
+                            <%= row.duration %>  <br /> <span>
+                                <%= row.projectType%>
+                              </span>
+                          </span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx  bx-rename"></i>STIPEND</a>
+                          <br /><span>
+                            <%= row.stipend %>
+                          </span>
+                        </p>
+                      </div>
+                      <div class="col">
+                        <p><a href="#" class="startDate"><i class="bx bx-time"></i>APPLY BY</a>
+                          <br /><span>
+                            <%= row.applyBy %>
+                          </span>
+                        </p>
+                      </div>
+                    </div>
+                    <p align="right">
+                      <button
+                        style="padding: 10px; margin: 10px; border-radius: 27px; background-color:navy; width: 150px;"
+                        class="btn btn-primary" type="submit" data-toggle="collapse"
+                        data-target="#collapseExample<%=index%>" aria-expanded="false"
+                        aria-controls="collapseExample<%=index%>">
+                        View more
+                      </button>
+                    </p>
+                    <div class="collapse" id="collapseExample<%=index%>">
+                      <div class="">
+                        <div class="row">
+                          <div class="col-12">
+                            <p><b>Work Description</b><br /></p>
+                            <P>
+                              <%= row.workJD %>
+                            </P>
+
+                          </div>
+
+                          <div class="col-12">
+                            <p><b>Skills Required</b><br /></p>
+                            <P>
+                              <%= row.skills %>
+                            </P>
+
+                          </div>
+
+                          <div class="col-12">
+                            <p><b>Position Availaible: </b><br /></p>
+                            <P>
+                              <%= row.positionAvailable %>
+
+                            </P>
+
+                          </div>
+
+                          <div class="col-12">
+                            <p><b>No. of Openings</b><br /></p>
+                            <P>
+                              <%= row.openings %>
+                            </P>
+                          </div>
+                          <div class="row">
+                            <div class="col-8"></div>
+                            <div class="col-3">
+                              <div class="text-center">
+                                <!-- Button trigger modal -->
+                              <% let applied=false; %>
+                                <% for(let i=0;i< intouchDetails.length ;i++){ %>
+                                    <% if(String(intouchDetails[i].freelancer.id) == String(row._id) && intouchDetails[i].applied){%> 
+                                          <%applied = true%> 
+                                    <%}%>
+                                <% } %>
+                                <% if(applied){ %> 
+                                   <button type="button" class="btn btn-primary" style="background-color: green; padding: 10px; margin: 10px; border-radius: 27px;width: 150px;" >
+                                    Applied
+                                  </button>
+                                <% }else{ %>
+                                  <button type="submit" class="btn btn-primary" data-toggle="modal"
+                                  data-target="#exampleModal<%= row._id+1 %>">
+                                  Apply now
+                                </button>
+                                <% } %>
+                                
+                              </div>
+                              <form action="/Projects/<%= row._id %>" method="POST">
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal<%= row._id +1 %>" tabindex="-1" role="dialog"
+                                  aria-labelledby="exampleModal<%= row._id +1 %>Label" aria-hidden="true">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModal<%= row._id+1 %>Label">Freelancer Info
+                                        </h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <span aria-hidden="true">&times;</span>
+                                        </button>
+                                      </div>
+                                      <div class="modal-body">
+                                        <input type="text" name="userName" class="form-control"
+                                          id="exampleInputuserName1" aria-describedby="userNameHelp"
+                                          placeholder="ENTER USER NAME" required>
+                                      </div>
+                                      <div class="modal-footer">
+                                        <input type="submit" class="btn btn-secondary" data-dismiss="modal"
+                                          value="Close" required>
+                                        <input type="submit" id="removeContactMe<%=index%>" class="btn btn-primary"
+                                          value="Save changes" required>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </form>
+                            </div>
+                            <div class="row">
+                              <div class="col-9"></div>
+                              <div class="col-3">
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <% }) %>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container d-md-flex py-4">
+        <div class="me-md-auto text-center text-md-start">
+          <div class="copyright">
+            &copy; Copyright <strong><span>HireBook</span></strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            Designed by <a href="/team">Team @HireBook</a>
+          </div>
+        </div>
+        <div class="social-links text-center text-md-right pt-3 pt-md-0">
+          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div>
+      </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+    <div id="preloader"></div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"></script>
+    <!-- Vendor JS Files -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="vendor/php-email-form/validate.js"></script>
+    <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="vendor/counterup/counterup.min.js"></script>
+    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="vendor/aos/aos.js"></script>
+    <script src="vendor/typed.js/typed.min.js"></script>
+    <!-- Main JS File -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
