@@ -19,7 +19,7 @@
 # Table of Contents
 - [General info](#desc)
 - [Run](#run)
-- [Prerequisites](#pre)
+- [Technologies Used](#pre)
 
 <a name="desc"></a>
 # General info
@@ -38,14 +38,21 @@ Open localhost:3000 and to find the magic
 
 ```
 <a name="pre"></a>
-# Prerequisites
-- MongoDB
-- Nodejs
-- Express JS
-- React JS
-- HTML
-- CSS
-- JS
+# Technologies Used
+- MongoDB(Backend)
+- Nodejs(Backend)
+- JS(Backend)
+- Bcrypt js(Backend)
+- Passport js (Backend)
+- Express JS(frontend)
+- React JS(frontend)
+- HTML(frontend)
+- CSS(frontend)
+- Bootstrap V.5(frontend)
+- Heroku(Deploy)
+- Netlify(Deploy)
+
+
 
 <a name="pre"></a>
 # CODE
