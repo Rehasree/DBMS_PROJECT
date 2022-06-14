@@ -5,16 +5,7 @@
 **<a align="center" href="https://dbms2704.herokuapp.com/"> 
 #HIREBOOK
 </a>**
-**<p> <b>Team</b> </p>**
- -K.Rehasree (19BCS057) <br />
- -Ch.Shivathmika(19BCS029) <br />
- -K.Sucharitha(19BCS058) <br />
- -K.Dinesh(19BCS060) <br />
- -Divyansh Tripathi (19BCS039) <br />
- -Akash Singh(19BCS0007) <br />
- -Bipul Gautham (19BCS023) <br />
- -Anmol Kumar(19BCS011) <br />
- -Chaintanya S Hegde(19BCS027) <br />
+
 
 # Table of Contents
 - [General info](#desc)
